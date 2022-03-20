@@ -1,4 +1,201 @@
 {
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Odysseus",
+      "identifier": "e9c4c400-e0a3-4e96-8ffb-1424ef5ba358",
+      "author": "James Joyce",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-09-10T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven1cast\nmlpuroven1zvlastnipripady",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "mlphvezdicky\nmlphvezdicky1",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopisbez1radkui\nmlpdopisi\nmlpdopispodpisi\nmlpscenickepoznamkynekurziva\nmlpscenickepoznamkynekurzivacxspfirst\nmlpscenickepoznamkynekurzivacxsplast\nmlptextbez1radkui\nmlptextbez1radkui1\nmlptextbez1radkui2\nmlptexti\nmlptexti1\nmlptitulkaprekladatel\nmlpversei\nmlpznakkurziva11b\nmlpznaktucnakurziva11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptirazautoranazev\nmlpznaktucnakurziva11b\nmlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "odysseus_001.md",
+            "xhtml": "odysseus_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_002.md",
+            "xhtml": "odysseus_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_003.md",
+            "xhtml": "odysseus_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_004.md",
+            "xhtml": "odysseus_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_005.md",
+            "xhtml": "odysseus_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_006.md",
+            "xhtml": "odysseus_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_007.md",
+            "xhtml": "odysseus_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_008.md",
+            "xhtml": "odysseus_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_009.md",
+            "xhtml": "odysseus_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_010.md",
+            "xhtml": "odysseus_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_011.md",
+            "xhtml": "odysseus_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_012.md",
+            "xhtml": "odysseus_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "odysseus_013.md",
+            "xhtml": "odysseus_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
   "epub": {
     "metadata": {
       "title": "Odysseus",
@@ -33,7 +230,7 @@
         "xhtml": "odysseus_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "odysseus_005.md",
         "xhtml": "odysseus_005.html"
@@ -45,7 +242,7 @@
         "xhtml": "odysseus_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "odysseus_007.md",
         "xhtml": "odysseus_007.html"
@@ -57,7 +254,7 @@
         "xhtml": "odysseus_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "odysseus_009.md",
         "xhtml": "odysseus_009.html"
@@ -69,13 +266,13 @@
         "xhtml": "odysseus_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Překladatelův doslov",
         "subtitleSuggest": "",
         "filename": "odysseus_011.md",
         "xhtml": "odysseus_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "odysseus_012.md",
         "xhtml": "odysseus_012.html"
@@ -253,6 +450,6 @@
       "user": "books-are-next",
       "repo": "odysseus"
     },
-    "generatedAt": 1647798609587
+    "generatedAt": 1647800101791
   }
 }

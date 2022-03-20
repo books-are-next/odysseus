@@ -1,0 +1,290 @@
+{
+  "author": "James Joyce",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "joyce-odysseus-5c0b5f3",
+  "languagecode": "cs",
+  "modified": "2018-09-10T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Odysseus",
+  "revision": "5c0b5f3",
+  "generatedAt": {
+    "date": "Sun Mar 20 2022 18:17:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647800240359
+  },
+  "documents": [
+    {
+      "title": "Odysseus",
+      "file": "odysseus_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "odysseus_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "odysseus_001.html",
+      "next": "odysseus_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_003.html",
+      "words": 6,
+      "chars": 41,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "odysseus_002.html",
+      "next": "odysseus_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_004.html",
+      "words": 76,
+      "chars": 500,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "odysseus_003.html",
+      "next": "odysseus_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Odysseus",
+      "file": "odysseus_005.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "odysseus_004.html",
+      "next": "odysseus_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_006.html",
+      "words": 14772,
+      "chars": 89139,
+      "ideas": 709,
+      "role": "chapter",
+      "order": 5,
+      "prev": "odysseus_005.html",
+      "next": "odysseus_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Odysseus",
+      "file": "odysseus_007.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "odysseus_006.html",
+      "next": "odysseus_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_008.html",
+      "words": 151940,
+      "chars": 932625,
+      "ideas": 5689,
+      "role": "chapter",
+      "order": 7,
+      "prev": "odysseus_007.html",
+      "next": "odysseus_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Odysseus",
+      "file": "odysseus_009.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "odysseus_008.html",
+      "next": "odysseus_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_010.html",
+      "words": 54781,
+      "chars": 333136,
+      "ideas": 1097,
+      "role": "chapter",
+      "order": 9,
+      "prev": "odysseus_009.html",
+      "next": "odysseus_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Překladatelův doslov • Odysseus",
+      "file": "odysseus_011.html",
+      "words": 2247,
+      "chars": 16126,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 10,
+      "prev": "odysseus_010.html",
+      "next": "odysseus_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Překladatelův doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Odysseus",
+      "file": "odysseus_012.html",
+      "words": 2238,
+      "chars": 13908,
+      "ideas": 337,
+      "role": "chapter",
+      "order": 11,
+      "prev": "odysseus_011.html",
+      "next": "odysseus_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odysseus",
+      "file": "odysseus_013.html",
+      "words": 54,
+      "chars": 376,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "odysseus_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 226123,
+      "chars": 1385892,
+      "ideas": 7890
+    },
+    "chapters": {
+      "words": 226117,
+      "chars": 1385857,
+      "ideas": 7885
+    }
+  }
+}
