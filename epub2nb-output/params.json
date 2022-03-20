@@ -24,7 +24,7 @@
       "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
+      "figure": "MLP_obrazky\nMLP-obrazky\nmlpobrazky\nmlpobrazky1",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopisbez1radkui\nmlpdopisi\nmlpdopispodpisi\nmlpscenickepoznamkynekurziva\nmlpscenickepoznamkynekurzivacxspfirst\nmlpscenickepoznamkynekurzivacxsplast\nmlptextbez1radkui\nmlptextbez1radkui1\nmlptextbez1radkui2\nmlptexti\nmlptexti1\nmlptitulkaprekladatel\nmlpversei\nmlpznakkurziva11b\nmlpznaktucnakurziva11b",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptirazautoranazev\nmlpznaktucnakurziva11b\nmlpznaktucne11b",
       "remove": "",
@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "odysseus_001.md",
             "xhtml": "odysseus_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "odysseus_002.md",
             "xhtml": "odysseus_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +64,9 @@
             "filename": "odysseus_003.md",
             "xhtml": "odysseus_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +76,9 @@
             "filename": "odysseus_004.md",
             "xhtml": "odysseus_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -90,10 +91,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "odysseus_006.md",
@@ -103,7 +105,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -114,10 +116,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "odysseus_008.md",
@@ -127,7 +130,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -138,10 +141,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "odysseus_010.md",
@@ -151,7 +155,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -162,10 +166,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Překladatelův doslov"
           },
           {
             "filename": "odysseus_012.md",
@@ -174,24 +179,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "odysseus_013.md",
             "xhtml": "odysseus_013.html",
             "id": 12,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -450,6 +457,6 @@
       "user": "books-are-next",
       "repo": "odysseus"
     },
-    "generatedAt": 1647800101791
+    "generatedAt": 1647801292218
   }
 }
