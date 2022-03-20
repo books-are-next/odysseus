@@ -14,23 +14,33 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - odysseus_001.html
   - odysseus_002.html
-  - odysseus_003.html
-  - odysseus_004.html
   - odysseus_005.html
-  - odysseus_006.html
   - odysseus_007.html
-  - odysseus_008.html
   - odysseus_009.html
-  - odysseus_010.html
   - odysseus_011.html
   - odysseus_012.html
-  - odysseus_013.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: odysseus_005.html
+        title: I
+        hiddenTitle: false
+      - link: odysseus_007.html
+        title: II
+        hiddenTitle: false
+      - link: odysseus_009.html
+        title: III
+        hiddenTitle: false
+      - link: odysseus_011.html
+        title: Překladatelův doslov
+        hiddenTitle: false
+      - link: odysseus_012.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
