@@ -1,0 +1,258 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Odysseus",
+      "identifier": "e9c4c400-e0a3-4e96-8ffb-1424ef5ba358",
+      "author": "James Joyce",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-09-10T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_001.md",
+        "xhtml": "odysseus_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_002.md",
+        "xhtml": "odysseus_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_003.md",
+        "xhtml": "odysseus_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_004.md",
+        "xhtml": "odysseus_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_005.md",
+        "xhtml": "odysseus_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_006.md",
+        "xhtml": "odysseus_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_007.md",
+        "xhtml": "odysseus_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_008.md",
+        "xhtml": "odysseus_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_009.md",
+        "xhtml": "odysseus_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_010.md",
+        "xhtml": "odysseus_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_011.md",
+        "xhtml": "odysseus_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_012.md",
+        "xhtml": "odysseus_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "odysseus_013.md",
+        "xhtml": "odysseus_013.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image004.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image005.png"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre11",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre21",
+      "calibre23",
+      "calibre24",
+      "calibre26",
+      "calibre27",
+      "calibre29",
+      "calibre30",
+      "calibre31",
+      "calibre32",
+      "calibre34",
+      "calibre35",
+      "calibre38",
+      "calibre39",
+      "calibre40",
+      "calibre41",
+      "calibre42",
+      "calibre43",
+      "calibre44",
+      "calibre45",
+      "calibre46",
+      "calibre47",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "calibre9",
+      "mlpdopisbez1radkui",
+      "mlpdopisi",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlphvezdicky1",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpobrazky1",
+      "mlpprimarec",
+      "mlpprimarecbezmezery",
+      "mlpprimarecdalsiodstavce",
+      "mlpscenickepoznamky",
+      "mlpscenickepoznamkycxspfirst",
+      "mlpscenickepoznamkycxsplast",
+      "mlpscenickepoznamkynekurziva",
+      "mlpscenickepoznamkynekurzivacxspfirst",
+      "mlpscenickepoznamkynekurzivacxsplast",
+      "mlpseznam",
+      "mlpseznam1",
+      "mlptabulka",
+      "mlptabulka1",
+      "mlptabulkazahlavi",
+      "mlptext",
+      "mlptext1",
+      "mlptext2",
+      "mlptext3",
+      "mlptext4",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptextbez1radku4",
+      "mlptextbez1radkui",
+      "mlptextbez1radkui1",
+      "mlptextbez1radkui2",
+      "mlptexti",
+      "mlptexti1",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpverse",
+      "mlpversedrama",
+      "mlpversei",
+      "mlpznakkurziva11b",
+      "mlpznaktucnakurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "msohyperlink",
+      "msonormal",
+      "msotablegrid",
+      "msotoc",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "odysseus"
+    },
+    "generatedAt": 1647798609587
+  }
+}
