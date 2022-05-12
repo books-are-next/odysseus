@@ -52,7 +52,7 @@
             "filename": "odysseus_002.md",
             "xhtml": "odysseus_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -200,8 +200,7 @@
         ],
         "devoured": false
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -457,6 +456,6 @@
       "user": "books-are-next",
       "repo": "odysseus"
     },
-    "generatedAt": 1647801292218
+    "generatedAt": 1652351518334
   }
 }

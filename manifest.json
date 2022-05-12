@@ -1,22 +1,32 @@
 {
-  "author": "James Joyce",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "joyce-odysseus-638578e",
-  "languagecode": "cs",
-  "modified": "2018-09-10T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Odysseus",
-  "revision": "638578e",
+  "author": "James Joyce",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "joyce-odysseus-5599cec",
+  "revision": "5599cec",
+  "readingOrder": [
+    "promo.html",
+    "odysseus_005.html",
+    "odysseus_007.html",
+    "odysseus_009.html",
+    "odysseus_011.html",
+    "odysseus_012.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Mar 20 2022 18:37:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647801436070
+    "date": "Thu May 12 2022 10:41:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352097995
   },
   "documents": [
     {
-      "title": "Odysseus",
-      "file": "odysseus_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +34,17 @@
       "order": 0,
       "prev": null,
       "next": "odysseus_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "I • Odysseus",
+      "title": "I",
       "file": "odysseus_005.html",
       "words": 14773,
       "chars": 89140,
       "ideas": 710,
       "role": "chapter",
       "order": 1,
-      "prev": "odysseus_002.html",
+      "prev": "promo.html",
       "next": "odysseus_007.html",
       "toc": [
         {
@@ -55,7 +57,7 @@
       ]
     },
     {
-      "title": "II • Odysseus",
+      "title": "II",
       "file": "odysseus_007.html",
       "words": 151941,
       "chars": 932627,
@@ -75,7 +77,7 @@
       ]
     },
     {
-      "title": "III • Odysseus",
+      "title": "III",
       "file": "odysseus_009.html",
       "words": 54782,
       "chars": 333139,
@@ -95,7 +97,7 @@
       ]
     },
     {
-      "title": "Překladatelův doslov • Odysseus",
+      "title": "Překladatelův doslov",
       "file": "odysseus_011.html",
       "words": 2247,
       "chars": 16126,
@@ -115,7 +117,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Odysseus",
+      "title": "Poznámky pod čarou",
       "file": "odysseus_012.html",
       "words": 2238,
       "chars": 13908,
@@ -135,11 +137,11 @@
       ]
     },
     {
-      "title": "Tiráž • Odysseus",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 137,
-      "chars": 922,
-      "ideas": 25,
+      "words": 107,
+      "chars": 726,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "odysseus_012.html",
@@ -157,9 +159,9 @@
   ],
   "totals": {
     "all": {
-      "words": 226123,
-      "chars": 1385892,
-      "ideas": 7890
+      "words": 226093,
+      "chars": 1385696,
+      "ideas": 7880
     },
     "chapters": {
       "words": 225981,
