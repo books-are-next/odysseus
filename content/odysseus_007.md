@@ -7,6 +7,8 @@ contentType: prose
 
 
 
+<section>
+
 Pan Leopold Bloom si potrpěl na dobytčí i drůbeží vnitřnosti. Měl rád hustou polévku z husích drůbků, šťavnatý žaludek, v troubě pečené špikované srdce, s chlebem opékané játrové plátky, opékané tresčí jikry. Nejraději měl na rožni pečené skopové ledvinky, ty mu čpavým nádechem moči šimraly ponebí.
 
 Na ledvinky myslel, jak tak potichu kutil v kuchyni a na vyboulený podnos jí rovnal snídani. Vzduch i světlo v kuchyni studily, ale venku bylo všude vlahé letní ráno. Až mu z toho trochu kručelo v břiše.
@@ -11211,3 +11213,5 @@ __(Micky, zamyšleně, ve střehu stojí stráž, prsty na rtech, v postoji tajn
 **BLOOM**: _(Užaslý, neslyšně zvolá.)_ Rudy!
 
 _**RUDY**: _(Nevidomě se Bloomovi zahledí do očí a dál čte, líbá knihu a usmívá se. Něžný slézový obličej. Na úboru má démantové a rubínové knoflíky. Volnou levou rukou drží tenounkou slonovou hůlku s fialovou mašlí. Z kapsičky u vesty mu čouhá bílý beránek.)__
+
+</section>

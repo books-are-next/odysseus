@@ -3,6 +3,8 @@ title: Překladatelův doslov
 contentType: prose
 ---
 
+<section>
+
 Odyssea _psal Joyce celkem sedm let ve třech městech, vydal ho r. 1922 v Paříži, několikrát byl časopisecký i knižní tisk potlačen, teprve po nálezu amerického soudce Johna M. Woolseyho byl v r. 1933 shledán nezávadným. Zárodečný náčrt_ Odyssea _vznikl už r. 1906 v Římě; tam se Joyce doslechl o jistém Dubliňanu Hunterovi, klamaném ženou; ten se mu stal symbolem samotáře a tuláka, v původní traspozici homérského mýtu za první světové války přerostlým v swiftovsko-sternovskou parodii._
 
 _Formálně lze v_ Odysseovi _spatřovat moderní obměnu středověkého trivia, tj. logiky, rétoriky, gramatiky. Trojí zdroj Joyceovy inspirace bylo snad anglické estetické hnutí konce 19. století, moderní evropské drama a scholastická tradice, pěstovaná v jezuitských školách. Podrobnou a hutnou evokací Dublinu v jeho třech složkách: národní, náboženské a jazykové, volbou slov i kříšením vzpomínek autor vědomě vytvářel estetické_ _povědomí národa, z jednotlivin doby pak nadčasový mýtus. Přední místo v Štěpánově vzpouře proti autoritě zaujímá vědomí svatokupectví páchaného Irskem, k tomu pak přistupuje neméně palčivé vědomí zrady na populárním protianglicky zaměřeném politikovi Pamellovi, kterou je osudně poznamenána novější irská historie._
@@ -52,3 +54,5 @@ _Tyto a desítky jiných problémů v Joyceově textu řešili slovanští přek
 _Závěrem připomínám, čím byl autor_ Odyssea _svému bezděčnému curyšskému sousedovi z první války C. G. Jungovi. „Co jsem se napřemýšlel,“ píše Jung r. 1960 Herbertu Readovi, „o Joyceovi a Picassovi, mistrech fragmentování estetických obsahů a kupení geniálních trosek…_ V Odysseovi _vplývá nekonečný, bezdechý svět trosek do skutečna, tj. do vesmíru neslýchaných vzdechů a nářků a neprolitých slz, neboť utrpení se samo zalklo a své estetické ‚hodnoty‘ začalo zjevovat nekonečné rumiště… Viděl jsem, jak se stejný proces odehrával u Picassa.“_
 
 _ALOYS SKOUMAL, _1976__
+
+</section>

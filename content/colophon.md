@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **James Joyce**  
 **Odysseus**  
 Edice Světová próza v českých překladech  
@@ -9,11 +10,8 @@ Překlad Aloys Skoumal
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Odysseus](https://search.mlp.cz/cz/titul/odysseus/42965/), jak bylo vydáno v Praze nakladatelstvím Argo v roce 1993.
 
 ***
 
