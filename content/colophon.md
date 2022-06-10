@@ -6,11 +6,10 @@ title: Tiráž
 **Odysseus**  
 Edice Světová próza v českých překladech  
 Překlad Aloys Skoumal  
-Ilustrace na obálce Francesco Scatena/Shutterstock.com  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
