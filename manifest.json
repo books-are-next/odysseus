@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "joyce-odysseus-5599cec",
-  "revision": "5599cec",
+  "identifier": "joyce-odysseus-b7cdd0a",
+  "revision": "b7cdd0a",
   "readingOrder": [
     "promo.html",
     "odysseus_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:41:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352097995
+    "date": "Fri Jun 10 2022 14:19:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870787303
   },
   "documents": [
     {
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 107,
-      "chars": 726,
-      "ideas": 15,
+      "words": 102,
+      "chars": 672,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "odysseus_012.html",
@@ -159,9 +159,9 @@
   ],
   "totals": {
     "all": {
-      "words": 226093,
-      "chars": 1385696,
-      "ideas": 7880
+      "words": 226088,
+      "chars": 1385642,
+      "ideas": 7879
     },
     "chapters": {
       "words": 225981,
