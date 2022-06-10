@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Přistoupím k oltáři božímu.
 
 [\[2\]](./resources/undefined) Zlatoústý.
@@ -674,3 +676,5 @@ contentType: prose
 [\[335\]](./resources/undefined) Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.
 
 [\[336\]](./resources/undefined) Hospoda.
+
+</section>
