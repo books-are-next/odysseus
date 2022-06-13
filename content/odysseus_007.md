@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 Pan Leopold Bloom si potrpěl na dobytčí i drůbeží vnitřnosti. Měl rád hustou polévku z husích drůbků, šťavnatý žaludek, v troubě pečené špikované srdce, s chlebem opékané játrové plátky, opékané tresčí jikry. Nejraději měl na rožni pečené skopové ledvinky, ty mu čpavým nádechem moči šimraly ponebí.
@@ -2626,7 +2625,7 @@ se nad zamlklou hlatí._
 
 Tak píší básníci. Podobné zvuky. Shakespeare ten nerýmuje: blankvers. Tok řeči. Myšlenek. Vznosných.
 
-                   _Jsem přízrak tvého otce,  
+             _Jsem přízrak tvého otce,  
 odsouzeného na nějaký čas  
 obcházet po zemi…_
 
@@ -3927,7 +3926,7 @@ Ba ano, mluví. V letech, kdy si v královském Londýně blahobytně žil, ona 
 
 Eglinton mu na to:
 
-                                     To myslíš závěť.
+                   To myslíš závěť.
 
 To všechno vysvětlili právníci.
 
@@ -3937,11 +3936,11 @@ patřilo vdovské věno, v tom se vyznal,
 
 jak tvrdí soudci.
 
-                                     Satan se mu šklebí,
+             Satan se mu šklebí,
 
 posměváčkovi:
 
-                                     Z první verze tedy
+             Z první verze tedy
 
 vynechal její jméno, zato nevynechal
 
@@ -3959,7 +3958,7 @@ nenejlepší
 
 postel.
 
-                                     _Punkt_
+             _Punkt_
 
 Posteljí
 
