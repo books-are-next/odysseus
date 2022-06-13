@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 Otylý, statný Tur Mulligan se vynořil ze schodů, nesl misku s mydlinami a na ní křížem přes sebe měl ležet zrcátko a břitvu. Jitřním vánkem se mu vzadu vzdouval nepřepásaný župan. Pozdvihl misku a zanotoval:
