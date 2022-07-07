@@ -20,7 +20,7 @@ readingOrder:
   - odysseus_009.html
   - odysseus_011.html
   - odysseus_012.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
