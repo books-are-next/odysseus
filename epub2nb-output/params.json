@@ -64,7 +64,7 @@
             "filename": "odysseus_003.md",
             "xhtml": "odysseus_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "odysseus_004.md",
             "xhtml": "odysseus_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -189,7 +189,7 @@
             "filename": "odysseus_013.md",
             "xhtml": "odysseus_013.html",
             "id": 12,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -456,6 +456,6 @@
       "user": "books-are-next",
       "repo": "odysseus"
     },
-    "generatedAt": 1655979261468
+    "generatedAt": 1657182256934
   }
 }

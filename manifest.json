@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "joyce-odysseus-f63a7f0",
-  "revision": "f63a7f0",
+  "identifier": "joyce-odysseus-a3ef554",
+  "revision": "a3ef554",
   "readingOrder": [
     "promo.html",
     "odysseus_005.html",
@@ -17,11 +17,11 @@
     "odysseus_009.html",
     "odysseus_011.html",
     "odysseus_012.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:18:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979519329
+    "date": "Thu Jul 07 2022 08:36:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183015805
   },
   "documents": [
     {
@@ -125,7 +125,7 @@
       "role": "chapter",
       "order": 5,
       "prev": "odysseus_011.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -138,11 +138,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 121,
-      "chars": 807,
+      "chars": 806,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "odysseus_012.html",
       "next": null,
@@ -160,7 +160,7 @@
   "totals": {
     "all": {
       "words": 226107,
-      "chars": 1385777,
+      "chars": 1385776,
       "ideas": 7880
     },
     "chapters": {
