@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "joyce-odysseus-94e0066",
-  "revision": "94e0066",
+  "identifier": "joyce-odysseus-38b37d2",
+  "revision": "38b37d2",
   "readingOrder": [
     "promo.html",
     "odysseus_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:37:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414232042
+    "date": "Thu Sep 29 2022 21:31:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487070468
   },
   "documents": [
     {
@@ -39,9 +39,9 @@
     {
       "title": "I",
       "file": "odysseus_005.html",
-      "words": 14773,
-      "chars": 89140,
-      "ideas": 710,
+      "words": 14834,
+      "chars": 89488,
+      "ideas": 720,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -59,9 +59,9 @@
     {
       "title": "II",
       "file": "odysseus_007.html",
-      "words": 151941,
-      "chars": 932627,
-      "ideas": 5690,
+      "words": 152325,
+      "chars": 934908,
+      "ideas": 5728,
       "role": "chapter",
       "order": 2,
       "prev": "odysseus_005.html",
@@ -79,9 +79,9 @@
     {
       "title": "III",
       "file": "odysseus_009.html",
-      "words": 54782,
-      "chars": 333139,
-      "ideas": 1098,
+      "words": 54892,
+      "chars": 333726,
+      "ideas": 1118,
       "role": "chapter",
       "order": 3,
       "prev": "odysseus_007.html",
@@ -119,9 +119,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "odysseus_012.html",
-      "words": 2238,
-      "chars": 13908,
-      "ideas": 337,
+      "words": 4473,
+      "chars": 26226,
+      "ideas": 673,
       "role": "chapter",
       "order": 5,
       "prev": "odysseus_011.html",
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 121,
-      "chars": 807,
-      "ideas": 15,
+      "words": 112,
+      "chars": 764,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "odysseus_012.html",
@@ -159,14 +159,14 @@
   ],
   "totals": {
     "all": {
-      "words": 226107,
-      "chars": 1385777,
-      "ideas": 7880
+      "words": 228888,
+      "chars": 1401268,
+      "ideas": 8283
     },
     "chapters": {
-      "words": 225981,
-      "chars": 1384940,
-      "ideas": 7861
+      "words": 228771,
+      "chars": 1400474,
+      "ideas": 8265
     }
   }
 }

@@ -5,676 +5,1348 @@ contentType: prose
 
 <section>
 
-[\[1\]](./resources/undefined) Přistoupím k oltáři božímu.
+[^1] Přistoupím k oltáři božímu.
 
-[\[2\]](./resources/undefined) Zlatoústý.
+[^2] Zlatoústý.
 
-[\[3\]](./resources/undefined) Algernon Charles Swinburne (1837–1909), angl. básník.
+[^3] Algernon Charles Swinburne (1837–1909), angl. básník.
 
-[\[4\]](./resources/undefined) Po vínově rudém moři;  z Homérovy _Odysseje_.
+[^4] Po vínově rudém moři;  z Homérovy _Odysseje_.
 
-[\[5\]](./resources/undefined) Moře! Moře!; z Xenofontovy _Anabáze_.
+[^5] Moře! Moře!; z Xenofontovy _Anabáze_.
 
-[\[6\]](./resources/undefined) Pupek.
+[^6] Pupek.
 
-[\[7\]](./resources/undefined) Mater Misericordiae, Richmond – nemocnice v Dublinu.
+[^7] Mater Misericordiae, Richmond – nemocnice v Dublinu.
 
-[\[8\]](./resources/undefined) Nechť tě obklopí liliový zástup zářících vyznavačů, nechť tě přivítá plesající sbor panen. (Irská modlitba nad umírajícím.)
+[^8] Nechť tě obklopí liliový zástup zářících vyznavačů, nechť tě přivítá plesající sbor panen. (Irská modlitba nad umírajícím.)
 
-[\[9\]](./resources/undefined) Ve jménu Otce i Syna i Ducha svatého.
+[^9] Ve jménu Otce i Syna i Ducha svatého.
 
-[\[10\]](./resources/undefined) A v jednu svatou všeobecnou a apoštolskou církev; vyznání víry, součást mše.
+[^10] A v jednu svatou všeobecnou a apoštolskou církev; vyznání víry, součást mše.
 
-[\[11\]](./resources/undefined) Hrome! Panebože!
+[^11] Hrome! Panebože!
 
-[\[12\]](./resources/undefined) Láska matčina; láska k matce.
+[^12] Láska matčina; láska k matce.
 
-[\[13\]](./resources/undefined) Po přímých cestách.
+[^13] Po přímých cestách.
 
-[\[14\]](./resources/undefined) Cena Paříže, vyznamenání.
+[^14] Cena Paříže, vyznamenání.
 
-[\[15\]](./resources/undefined) Mistr všech vědoucích (tj. Aristoteles), z Dantova _Pekla_.
+[^15] Mistr všech vědoucích (tj. Aristoteles), z Dantova _Pekla_.
 
-[\[16\]](./resources/undefined) Po sobě.
+[^16] Po sobě.
 
-[\[17\]](./resources/undefined) Vedle sebe.
+[^17] Vedle sebe.
 
-[\[18\]](./resources/undefined) Věčný zákon.
+[^18] Věčný zákon.
 
-[\[19\]](./resources/undefined) Biskupský pláštík.
+[^19] Biskupský pláštík.
 
-[\[20\]](./resources/undefined) Doslova: Přines s sebou; soudní obsílka.
+[^20] Doslova: Přines s sebou; soudní obsílka.
 
-[\[21\]](./resources/undefined) Ať odpočívá v pokoji.
+[^21] Ať odpočívá v pokoji.
 
-[\[22\]](./resources/undefined) Na stráž!; z Verdiho _Trubadúra_.
+[^22] Na stráž!; z Verdiho _Trubadúra_.
 
-[\[23\]](./resources/undefined) Úvodní árie.
+[^23] Úvodní árie.
 
-[\[24\]](./resources/undefined) Slez dolů, plešatče, abys příliš nezplešatěl.
+[^24] Slez dolů, plešatče, abys příliš nezplešatěl.
 
-[\[25\]](./resources/undefined) Ó ano, jistě!
+[^25] Ó ano, jistě!
 
-[\[26\]](./resources/undefined) Doslova: velký rok; nesmírná doba.
+[^26] Doslova: velký rok; nesmírná doba.
 
-[\[27\]](./resources/undefined) Kdo vás přivedl do tohoto trapného stavu?
+[^27] Kdo vás přivedl do tohoto trapného stavu?
 
-[\[28\]](./resources/undefined) Holub, Josefe.
+[^28] Holub, Josefe.
 
-[\[29\]](./resources/undefined) Teplé mléko.
+[^29] Teplé mléko.
 
-[\[30\]](./resources/undefined) Králíku.
+[^30] Králíku.
 
-[\[31\]](./resources/undefined) Loterie, terno.
+[^31] Loterie, terno.
 
-[\[32\]](./resources/undefined) Život Ježíšův.
+[^32] Život Ježíšův.
 
-[\[33\]](./resources/undefined) To víš, je to legrační. Jsem socialista. Nevěřím v boží existenci. Tátovi to nesmím říct.
+[^33] To víš, je to legrační. Jsem socialista. Nevěřím v boží existenci. Tátovi to nesmím říct.
 
-[\[34\]](./resources/undefined) On věří?
+[^34] On věří?
 
-[\[35\]](./resources/undefined) Můj otec ano.
+[^35] Můj otec ano.
 
-[\[36\]](./resources/undefined) Konec.
+[^36] Konec.
 
-[\[37\]](./resources/undefined) Fyzika, chemie a přírodověda.
+[^37] Fyzika, chemie a přírodověda.
 
-[\[38\]](./resources/undefined) Zadělávané plíčky.
+[^38] Zadělávané plíčky.
 
-[\[39\]](./resources/undefined) Boulevard St. Michel.
+[^39] Boulevard St. Michel.
 
-[\[40\]](./resources/undefined) On, to jsem já sám.
+[^40] On, to jsem já sám.
 
-[\[41\]](./resources/undefined) Ještě dvě minuty.
+[^41] Ještě dvě minuty.
 
-[\[42\]](./resources/undefined) Zavřeno.
+[^42] Zavřeno.
 
-[\[43\]](./resources/undefined) Haha!
+[^43] Haha!
 
-[\[44\]](./resources/undefined) Cože?
+[^44] Cože?
 
-[\[45\]](./resources/undefined) Baletní sukýnka.
+[^45] Baletní sukýnka.
 
-[\[46\]](./resources/undefined) Dlouhé bílé kalhoty a krátké červené; název humoristických časopisů.
+[^46] Dlouhé bílé kalhoty a krátké červené; název humoristických časopisů.
 
-[\[47\]](./resources/undefined) Řezy.
+[^47] Řezy.
 
-[\[48\]](./resources/undefined) Krém bretonského pudinku.
+[^48] Krém bretonského pudinku.
 
-[\[49\]](./resources/undefined) Půl žejdlíku!
+[^49] Půl žejdlíku!
 
-[\[50\]](./resources/undefined) On je Ir. Holandský? Sýr ne. Irové, my dva, Irsko, víte? To jo!
+[^50] On je Ir. Holandský? Sýr ne. Irové, my dva, Irsko, víte? To jo!
 
-[\[51\]](./resources/undefined) Na zdraví!
+[^51] Na zdraví!
 
-[\[52\]](./resources/undefined) Slečna.
+[^52] Slečna.
 
-[\[53\]](./resources/undefined) Děvče pro všechno.
+[^53] Děvče pro všechno.
 
-[\[54\]](./resources/undefined) Můj syn.
+[^54] Můj syn.
 
-[\[55\]](./resources/undefined) Pramice uvízlá v písku.
+[^55] Pramice uvízlá v písku.
 
-[\[56\]](./resources/undefined) Přemýšleje o hrozných věcech.
+[^56] Přemýšleje o hrozných věcech.
 
-[\[57\]](./resources/undefined) Samozřejmě.
+[^57] Samozřejmě.
 
-[\[58\]](./resources/undefined) Bratr čuník.
+[^58] Bratr čuník.
 
-[\[59\]](./resources/undefined) K tobě všeliké tělo přijde; _Žalm 65, 37_.
+[^59] K tobě všeliké tělo přijde; _Žalm 65, 37_.
 
-[\[60\]](./resources/undefined) Spíše.
+[^60] Spíše.
 
-[\[61\]](./resources/undefined) A viděl Bůh. A bylo velmi dobré; Genesis 1, 31.
+[^61] A viděl Bůh. A bylo velmi dobré; Genesis 1, 31.
 
-[\[62\]](./resources/undefined) Hle, jak malá nožka!
+[^62] Hle, jak malá nožka!
 
-[\[63\]](./resources/undefined) Dni i noci kvílí nad utrpěnými křivdami.
+[^63] Dni i noci kvílí nad utrpěnými křivdami.
 
-[\[64\]](./resources/undefined) Onen totiž Lucifer, jenž nezná západu. (Z obřadů svěcení svící na Bílou sobotu, Lucifer = Světlonoš, Jitřenka.)
+[^64] Onen totiž Lucifer, jenž nezná západu. (Z obřadů svěcení svící na Bílou sobotu, Lucifer = Světlonoš, Jitřenka.)
 
-[\[65\]](./resources/undefined) No dobře.
+[^65] No dobře.
 
-[\[66\]](./resources/undefined) Tam ruku dám ti; z Mozartova _Dona Giovanniho_.
+[^66] Tam ruku dám ti; z Mozartova _Dona Giovanniho_.
 
-[\[67\]](./resources/undefined) Zda chci či nechci; z Mozartova _Dona Giovanniho._
+[^67] Zda chci či nechci; z Mozartova _Dona Giovanniho._
 
-[\[68\]](./resources/undefined) Sladké nic nedělání.
+[^68] Sladké nic nedělání.
 
-[\[69\]](./resources/undefined) Stavovská solidarita, morálka.
+[^69] Stavovská solidarita, morálka.
 
-[\[70\]](./resources/undefined) Ejhle člověk! – Pilátův výrok o Ježíšovi.
+[^70] Ejhle člověk! – Pilátův výrok o Ježíšovi.
 
-[\[71\]](./resources/undefined) Iesus Nazarenus Rex Iudaeorum – Ježíš Nazaretský, král židovský.
+[^71] Iesus Nazarenus Rex Iudaeorum – Ježíš Nazaretský, král židovský.
 
-[\[72\]](./resources/undefined) Iesus Hominum Salvator – Ježíš, spasitel lidí; In hoc Signo (vinces) – V tomto znamení (zvítězíš); In Hac Salus – V tomto (kříži) spása.
+[^72] Iesus Hominum Salvator – Ježíš, spasitel lidí; In hoc Signo (vinces) – V tomto znamení (zvítězíš); In Hac Salus – V tomto (kříži) spása.
 
-[\[73\]](./resources/undefined) Stála Matka, mariánský hymnus.
+[^73] Stála Matka, mariánský hymnus.
 
-[\[74\]](./resources/undefined) Kdo je člověk!
+[^74] Kdo je člověk!
 
-[\[75\]](./resources/undefined) Španělská pleť.
+[^75] Španělská pleť.
 
-[\[76\]](./resources/undefined) Jak chví se srdce mé; z Mozartova _Dona Giovanniho_.
+[^76] Jak chví se srdce mé; z Mozartova _Dona Giovanniho_.
 
-[\[77\]](./resources/undefined) Nevcházej v soud se služebníkem svým, Pane. _Žalm 142, 2_.
+[^77] Nevcházej v soud se služebníkem svým, Pane. _Žalm 142, 2_.
 
-[\[78\]](./resources/undefined) A neuveď nás v pokušení; z _Otčenáše_.
+[^78] A neuveď nás v pokušení; z _Otčenáše_.
 
-[\[79\]](./resources/undefined) Do ráje (ať doprovodí tě andělé); pohřební zpěv.
+[^79] Do ráje (ať doprovodí tě andělé); pohřební zpěv.
 
-[\[80\]](./resources/undefined) Nechť má tělo.
+[^80] Nechť má tělo.
 
-[\[81\]](./resources/undefined) O mrtvých nejinak než dříve, tj. stejně jako dříve – jen dobré.
+[^81] O mrtvých nejinak než dříve, tj. stejně jako dříve – jen dobré.
 
-[\[82\]](./resources/undefined) Pesach, židovské Velikonce.
+[^82] Pesach, židovské Velikonce.
 
-[\[83\]](./resources/undefined) Slyš, Izraeli, Hospodin Bůh náš, Hospodin jeden jest.
+[^83] Slyš, Izraeli, Hospodin Bůh náš, Hospodin jeden jest.
 
-[\[84\]](./resources/undefined) Léta Páně.
+[^84] Léta Páně.
 
-[\[85\]](./resources/undefined) Říše římská.
+[^85] Říše římská.
 
-[\[86\]](./resources/undefined) Vstupte, děti!
+[^86] Vstupte, děti!
 
-[\[87\]](./resources/undefined) Pane, smiluj se!
+[^87] Pane, smiluj se!
 
-[\[88\]](./resources/undefined) Pokoj bychom vyprosili tobě… porozprávět sobě… neb vichr právě ustal ve své zlobě; z Dantovy _Božské komedie_, přel. O. F. Babler.
+[^88] Pokoj bychom vyprosili tobě… porozprávět sobě… neb vichr právě ustal ve své zlobě; z Dantovy _Božské komedie_, přel. O. F. Babler.
 
-[\[89\]](./resources/undefined) V tom vzduchu šerém; z Dantovy _Božské komedie_, přel. O. F. Babler.
+[^89] V tom vzduchu šerém; z Dantovy _Božské komedie_, přel. O. F. Babler.
 
-[\[90\]](./resources/undefined) Tak pokojná ta auriflamma (praporec); z Dantovy _Božské komedie_, přel. K. Vrátný.
+[^90] Tak pokojná ta auriflamma (praporec); z Dantovy _Božské komedie_, přel. K. Vrátný.
 
-[\[91\]](./resources/undefined) Větší touhou, zírat zas, mě zažeh; z Dantovy _Božské komedie_, přel. K. Vrátný.
+[^91] Větší touhou, zírat zas, mě zažeh; z Dantovy _Božské komedie_, přel. K. Vrátný.
 
-[\[92\]](./resources/undefined) Itálie, učitelka umění.
+[^92] Itálie, učitelka umění.
 
-[\[93\]](./resources/undefined) Zákon odvety; z knihy _Exodus_.
+[^93] Zákon odvety; z knihy _Exodus_.
 
-[\[94\]](./resources/undefined) Byla kdysi Trója; z Vergiliovy _Aeneidy_.
+[^94] Byla kdysi Trója; z Vergiliovy _Aeneidy_.
 
-[\[95\]](./resources/undefined) Žádné statky.
+[^95] Žádné statky.
 
-[\[96\]](./resources/undefined) Bůh to byl, jenž poklid tento mi zjednal; z Vergiliových _Zpěvů pastýřských_, přel. O. Vaňorný.
+[^96] Bůh to byl, jenž poklid tento mi zjednal; z Vergiliových _Zpěvů pastýřských_, přel. O. Vaňorný.
 
-[\[97\]](./resources/undefined) Naše věc je svatá; z opery _Hugenoti_ od. G. Meyerbeera (1791–1864).
+[^97] Naše věc je svatá; z opery _Hugenoti_ od. G. Meyerbeera (1791–1864).
 
-[\[98\]](./resources/undefined) Don Giovanni! K tomuto kvasu jsi mne pozval! Z Mozartova _Dona Giovanniho,_ přel. R. Vonásek.
+[^98] Don Giovanni! K tomuto kvasu jsi mne pozval! Z Mozartova _Dona Giovanniho,_ přel. R. Vonásek.
 
-[\[99\]](./resources/undefined) A on pak trubku udělal si z řiti; z Dantovy _Božské komedie_, přel. O. F. Babler.
+[^99] A on pak trubku udělal si z řiti; z Dantovy _Božské komedie_, přel. O. F. Babler.
 
-[\[100\]](./resources/undefined) Zdráv buď, Mistře.
+[^100] Zdráv buď, Mistře.
 
-[\[101\]](./resources/undefined) Předpeklí.
+[^101] Předpeklí.
 
-[\[102\]](./resources/undefined) Ani nejmenovat!
+[^102] Ani nejmenovat!
 
-[\[103\]](./resources/undefined) Člun je na souši. Jsem kněz. – Slova z irského slabikáře.
+[^103] Člun je na souši. Jsem kněz. – Slova z irského slabikáře.
 
-[\[104\]](./resources/undefined) Pohledem člověka zahubí (bazilišek).
+[^104] Pohledem člověka zahubí (bazilišek).
 
-[\[105\]](./resources/undefined) Kraj mládí; v keltské mytologii blažené bezčasí.
+[^105] Kraj mládí; v keltské mytologii blažené bezčasí.
 
-[\[106\]](./resources/undefined) Běhna.
+[^106] Běhna.
 
-[\[107\]](./resources/undefined) Čemu se posmíváš, tomu budeš sloužit.
+[^107] Čemu se posmíváš, tomu budeš sloužit.
 
-[\[108\]](./resources/undefined) Je Velký pátek!
+[^108] Je Velký pátek!
 
-[\[109\]](./resources/undefined) Ještě dvacet sous. Budeme dělat prasečinky. Minet? Chceš?
+[^109] Ještě dvacet sous. Budeme dělat prasečinky. Minet? Chceš?
 
-[\[110\]](./resources/undefined) Rozvod od stolu a lože.
+[^110] Rozvod od stolu a lože.
 
-[\[111\]](./resources/undefined) Tvary slovesa močit.
+[^111] Tvary slovesa močit.
 
-[\[112\]](./resources/undefined) Měli by mě zarazit.
+[^112] Měli by mě zarazit.
 
-[\[113\]](./resources/undefined) Ba co více. V lidské společnosti záleží nejvíce na tom, aby byla láska mezi mnohými.
+[^113] Ba co více. V lidské společnosti záleží nejvíce na tom, aby byla láska mezi mnohými.
 
-[\[114\]](./resources/undefined) Oroduj za nás.
+[^114] Oroduj za nás.
 
-[\[115\]](./resources/undefined) Polib mi prdel! Srdíčko moje.
+[^115] Polib mi prdel! Srdíčko moje.
 
-[\[116\]](./resources/undefined) Praví Eglinton Posloupnopisec.
+[^116] Praví Eglinton Posloupnopisec.
 
-[\[117\]](./resources/undefined) V ten čas, kdy život náš je na půl cestě; z Dantovy _Božské komedie_, přel. K. Vrátný.
+[^117] V ten čas, kdy život náš je na půl cestě; z Dantovy _Božské komedie_, přel. K. Vrátný.
 
-[\[118\]](./resources/undefined) Ještě víc. Podnes. Znovu. Potom.
+[^118] Ještě víc. Podnes. Znovu. Potom.
 
-[\[119\]](./resources/undefined) Sebetrapič – název antického dramatu a též básně Ch. Baudelaira.
+[^119] Sebetrapič – název antického dramatu a též básně Ch. Baudelaira.
 
-[\[120\]](./resources/undefined) Býk ověnčený k oběti.
+[^120] Býk ověnčený k oběti.
 
-[\[121\]](./resources/undefined) Štěpánovo děvče. Ano, jeho. Gelindo se rozhodne, že nebude Š. D. milovat.
+[^121] Štěpánovo děvče. Ano, jeho. Gelindo se rozhodne, že nebude Š. D. milovat.
 
-[\[122\]](./resources/undefined) Otče, pravil; padající Ikarus volá svého otce podobně jako Kristus na kříži.
+[^122] Otče, pravil; padající Ikarus volá svého otce podobně jako Kristus na kříži.
 
-[\[123\]](./resources/undefined) Co chcete?
+[^123] Co chcete?
 
-[\[124\]](./resources/undefined) Našel jsem to! Už to mám!
+[^124] Našel jsem to! Už to mám!
 
-[\[125\]](./resources/undefined) Já sám.
+[^125] Já sám.
 
-[\[126\]](./resources/undefined) _Summa_ proti pohanům od Tomáše Akvinského.
+[^126] _Summa_ proti pohanům od Tomáše Akvinského.
 
-[\[127\]](./resources/undefined) Irský bůh lásky a krásy.
+[^127] Irský bůh lásky a krásy.
 
-[\[128\]](./resources/undefined) Náš přítel.
+[^128] Náš přítel.
 
-[\[129\]](./resources/undefined) _Třicetiletá_ – Balzakův román.
+[^129] _Třicetiletá_ – Balzakův román.
 
-[\[130\]](./resources/undefined) V pravdě je hodné a spravedlivé; počátek eucharistické modlitby při mši.
+[^130] V pravdě je hodné a spravedlivé; počátek eucharistické modlitby při mši.
 
-[\[131\]](./resources/undefined) Počet vyvolených.
+[^131] Počet vyvolených.
 
-[\[132\]](./resources/undefined) Ejakulace semene do ženského přirození.
+[^132] Ejakulace semene do ženského přirození.
 
-[\[133\]](./resources/undefined) Tvořit beránky.
+[^133] Tvořit beránky.
 
-[\[134\]](./resources/undefined) Bože, ku pomoci.
+[^134] Bože, ku pomoci.
 
-[\[135\]](./resources/undefined) Reš (hebrejská číslice): Blahoslavení neposkvrnění: Počátek slov tvých jest pravda: na věky všickni soudové spravedlnosti tvé. _Žalm 118_.
+[^135] Reš (hebrejská číslice): Blahoslavení neposkvrnění: Počátek slov tvých jest pravda: na věky všickni soudové spravedlnosti tvé. _Žalm 118_.
 
-[\[136\]](./resources/undefined) Sin (hebrejská číslice): Knížata pronásledovala mne bez příčiny: a slov tvých strachovalo se srdce mé.
+[^136] Sin (hebrejská číslice): Knížata pronásledovala mne bez příčiny: a slov tvých strachovalo se srdce mé.
 
-[\[137\]](./resources/undefined) Taky jsem míval takové názory, když jsem byl mladičký jako vy. Potom jsem se přesvědčil, že svět je dravec. Škoda. Vždyť váš hlas… byl by zdrojem příjmu, jen do toho. A zatím se obětujete. Oběť nekrvavá.
+[^137] Taky jsem míval takové názory, když jsem byl mladičký jako vy. Potom jsem se přesvědčil, že svět je dravec. Škoda. Vždyť váš hlas… byl by zdrojem příjmu, jen do toho. A zatím se obětujete. Oběť nekrvavá.
 
-[\[138\]](./resources/undefined) Doufejme.
+[^138] Doufejme.
 
-[\[139\]](./resources/undefined) Dejte na má slova. Uvažujte.
+[^139] Dejte na má slova. Uvažujte.
 
-[\[140\]](./resources/undefined) Budu uvažovat.
+[^140] Budu uvažovat.
 
-[\[141\]](./resources/undefined) Ale vážně, hm?
+[^141] Ale vážně, hm?
 
-[\[142\]](./resources/undefined) Vida. Přijďte za mnou a myslete na to.
+[^142] Vida. Přijďte za mnou a myslete na to.
 
-[\[143\]](./resources/undefined) Nashledanou, Mistře. A děkuji.
+[^143] Nashledanou, Mistře. A děkuji.
 
-[\[144\]](./resources/undefined) Není za co. Promiňte. Všechno nejlepší.
+[^144] Není za co. Promiňte. Všechno nejlepší.
 
-[\[145\]](./resources/undefined) Nerozluštitelné kabalistické zaklínadlo.
+[^145] Nerozluštitelné kabalistické zaklínadlo.
 
-[\[146\]](./resources/undefined) Hluboký hlas, bas.
+[^146] Hluboký hlas, bas.
 
-[\[147\]](./resources/undefined) Chtěl jsem z přinucení.
+[^147] Chtěl jsem z přinucení.
 
-[\[148\]](./resources/undefined) Poslední módní výkřik.
+[^148] Poslední módní výkřik.
 
-[\[149\]](./resources/undefined) Ve městě, u moře.
+[^149] Ve městě, u moře.
 
-[\[150\]](./resources/undefined) Milostně, leč nepříliš.
+[^150] Milostně, leč nepříliš.
 
-[\[151\]](./resources/undefined) Celá láska se mi zjevila, upřel jsem na ni pohled; z Flotowovy opery _Marta_.
+[^151] Celá láska se mi zjevila, upřel jsem na ni pohled; z Flotowovy opery _Marta_.
 
-[\[152\]](./resources/undefined) Komorní hudba. Nočník.
+[^152] Komorní hudba. Nočník.
 
-[\[153\]](./resources/undefined) Zde v těch kobkách svátosti; z Mozartovy _Kouzelné flétny_, přel. J. K. Chmelenský.
+[^153] Zde v těch kobkách svátosti; z Mozartovy _Kouzelné flétny_, přel. J. K. Chmelenský.
 
-[\[154\]](./resources/undefined) Má vina.
+[^154] Má vina.
 
-[\[155\]](./resources/undefined) Příteli.
+[^155] Příteli.
 
-[\[156\]](./resources/undefined) Buď zticha.
+[^156] Buď zticha.
 
-[\[157\]](./resources/undefined) Houbovité tělísko.
+[^157] Houbovité tělísko.
 
-[\[158\]](./resources/undefined) Ve chvíli smrti při popravě.
+[^158] Ve chvíli smrti při popravě.
 
-[\[159\]](./resources/undefined) Mečík krvavý.
+[^159] Mečík krvavý.
 
-[\[160\]](./resources/undefined) Irský pozemní hokej.
+[^160] Irský pozemní hokej.
 
-[\[161\]](./resources/undefined) Družina.
+[^161] Družina.
 
-[\[162\]](./resources/undefined) Pro veřejné blaho.
+[^162] Pro veřejné blaho.
 
-[\[163\]](./resources/undefined) Irský přípitek.
+[^163] Irský přípitek.
 
-[\[164\]](./resources/undefined) Irský národ; jméno vlasteneckého sdružení.
+[^164] Irský národ; jméno vlasteneckého sdružení.
 
-[\[165\]](./resources/undefined) Přestaň.
+[^165] Přestaň.
 
-[\[166\]](./resources/undefined) Příčetný.
+[^166] Příčetný.
 
-[\[167\]](./resources/undefined) Naplivat na Angličany! Věrolomný Albion!
+[^167] Naplivat na Angličany! Věrolomný Albion!
 
-[\[168\]](./resources/undefined) Třesky plesky.
+[^168] Třesky plesky.
 
-[\[169\]](./resources/undefined) V zahradě.
+[^169] V zahradě.
 
-[\[170\]](./resources/undefined) Německá sentimentální vojenská píseň.
+[^170] Německá sentimentální vojenská píseň.
 
-[\[171\]](./resources/undefined) V lůně matčině.
+[^171] V lůně matčině.
 
-[\[172\]](./resources/undefined) Zjevení Páně neboli Tří králů.
+[^172] Zjevení Páně neboli Tří králů.
 
-[\[173\]](./resources/undefined) Vstaň, osvěť se (Jeruzaléme).
+[^173] Vstaň, osvěť se (Jeruzaléme).
 
-[\[174\]](./resources/undefined) Všickni … ze Sáby přijdou.
+[^174] Všickni … ze Sáby přijdou.
 
-[\[175\]](./resources/undefined) Spomožení naše ve jménu Páně. – Který stvořil nebe i zemi. – Pán s vámi. – I s duchem tvým.
+[^175] Spomožení naše ve jménu Páně. – Který stvořil nebe i zemi. – Pán s vámi. – I s duchem tvým.
 
-[\[176\]](./resources/undefined) Bože, jehož jménem se veškerenstvo posvěcuje, vylej své požehnání na toto stvoření: a učiň, aby kdožkoli jich podle zákona i vůle s díkučiněním požívati bude, skrze vzývání Tvého přesvatého jména tvým působením tělesného zdraví i duševní záštity dosáhl skrze Krista Pána našeho.
+[^176] Bože, jehož jménem se veškerenstvo posvěcuje, vylej své požehnání na toto stvoření: a učiň, aby kdožkoli jich podle zákona i vůle s díkučiněním požívati bude, skrze vzývání Tvého přesvatého jména tvým působením tělesného zdraví i duševní záštity dosáhl skrze Krista Pána našeho.
 
-[\[177\]](./resources/undefined) Velevážený pan.
+[^177] Velevážený pan.
 
-[\[178\]](./resources/undefined) Spojka „a“.
+[^178] Spojka „a“.
 
-[\[179\]](./resources/undefined) Sbohem, milý kamaráde! Sbohem!
+[^179] Sbohem, milý kamaráde! Sbohem!
 
-[\[180\]](./resources/undefined) Mše za zemřelé.
+[^180] Mše za zemřelé.
 
-[\[181\]](./resources/undefined) Zkratky nehorázných titulů, podle E. Kreutzera znamenají: Podvazkový rytíř, Rytíř sv. Patrika, Chrámový rytíř (tj. zednář), Tajný rada, Rytířský komandér lázeňského řádu, Poslanec, Smírčí soudce, Bakalář lékařství, Řád za vynikající službu, Sodomita, Vrchní štolba, Člen Královské irské akademie, Bakalář práv, Doktor hudby, Chudinský opatrovník, Člen Trojické koleje v Dublinu, Člen Královské irské univerzity, Člen Královské irské lékařské koleje, Člen Královské irské chirurgické koleje.
+[^181] Zkratky nehorázných titulů, podle E. Kreutzera znamenají: Podvazkový rytíř, Rytíř sv. Patrika, Chrámový rytíř (tj. zednář), Tajný rada, Rytířský komandér lázeňského řádu, Poslanec, Smírčí soudce, Bakalář lékařství, Řád za vynikající službu, Sodomita, Vrchní štolba, Člen Královské irské akademie, Bakalář práv, Doktor hudby, Chudinský opatrovník, Člen Trojické koleje v Dublinu, Člen Královské irské univerzity, Člen Královské irské lékařské koleje, Člen Královské irské chirurgické koleje.
 
-[\[182\]](./resources/undefined) Pěkná podívaná!
+[^182] Pěkná podívaná!
 
-[\[183\]](./resources/undefined) Té neskonalé (svátosti) – hymnus od Tomáše Akvinského.
+[^183] Té neskonalé (svátosti) – hymnus od Tomáše Akvinského.
 
-[\[184\]](./resources/undefined) Chléb z nebe dal jsi jim.
+[^184] Chléb z nebe dal jsi jim.
 
-[\[185\]](./resources/undefined) Mrzutost.
+[^185] Mrzutost.
 
-[\[186\]](./resources/undefined) Chvalte Hospodina všickni národové; _Žalm 116_.
+[^186] Chvalte Hospodina všickni národové; _Žalm 116_.
 
-[\[187\]](./resources/undefined) Prádlo.
+[^187] Prádlo.
 
-[\[188\]](./resources/undefined) Správně: La causa è santa, tj. svatá věc.
+[^188] Správně: La causa è santa, tj. svatá věc.
 
-[\[189\]](./resources/undefined) Vari z cesty; píseň irského básníka Ch. G. Duffyho.
+[^189] Vari z cesty; píseň irského básníka Ch. G. Duffyho.
 
-[\[190\]](./resources/undefined) Dobrou noc, slečno. Muž miluje krásnou dívku.
+[^190] Dobrou noc, slečno. Muž miluje krásnou dívku.
 
-[\[191\]](./resources/undefined) Následným účinkem.
+[^191] Následným účinkem.
 
-[\[192\]](./resources/undefined) Panno a matko, dcero syna svého; z Dantovy _Božské komedie_, přel. K. Vrátný.
+[^192] Panno a matko, dcero syna svého; z Dantovy _Božské komedie_, přel. K. Vrátný.
 
-[\[193\]](./resources/undefined) Petr rybář = papež.
+[^193] Petr rybář = papež.
 
-[\[194\]](./resources/undefined) Aby se poznalo tělesné tajemství našeho pohlaví.
+[^194] Aby se poznalo tělesné tajemství našeho pohlaví.
 
-[\[195\]](./resources/undefined) Modlete se, bratři, za mě.
+[^195] Modlete se, bratři, za mě.
 
-[\[196\]](./resources/undefined) Kde, jak.
+[^196] Kde, jak.
 
-[\[197\]](./resources/undefined) Štěpánská píseň.
+[^197] Štěpánská píseň.
 
-[\[198\]](./resources/undefined) Smrt policajtům!
+[^198] Smrt policajtům!
 
-[\[199\]](./resources/undefined) Slintavka.
+[^199] Slintavka.
 
-[\[200\]](./resources/undefined) Taková a tak veliká je zkaženost této doby, římští občané, že naše vdané paní mají raději chlípná lechtání kdejakého libyjského polomuže než pořádné moudí a strmé ztopoření římských centuriónů.
+[^200] Taková a tak veliká je zkaženost této doby, římští občané, že naše vdané paní mají raději chlípná lechtání kdejakého libyjského polomuže než pořádné moudí a strmé ztopoření římských centuriónů.
 
-[\[201\]](./resources/undefined) Ale jistě… tisíceré díky.
+[^201] Ale jistě… tisíceré díky.
 
-[\[202\]](./resources/undefined) Obchodník s pláštěnkami.
+[^202] Obchodník s pláštěnkami.
 
-[\[203\]](./resources/undefined) Ploditel, tj. Mulligan.
+[^203] Ploditel, tj. Mulligan.
 
-[\[204\]](./resources/undefined) U něho… hrome… vážně.
+[^204] U něho… hrome… vážně.
 
-[\[205\]](./resources/undefined) To jsou dvě věci.
+[^205] To jsou dvě věci.
 
-[\[206\]](./resources/undefined) Těhotná.
+[^206] Těhotná.
 
-[\[207\]](./resources/undefined) Plod bez srdce v plodu.
+[^207] Plod bez srdce v plodu.
 
-[\[208\]](./resources/undefined) Budiž!
+[^208] Budiž!
 
-[\[209\]](./resources/undefined) Mrtvé moře.
+[^209] Mrtvé moře.
 
-[\[210\]](./resources/undefined) Porod.
+[^210] Porod.
 
-[\[211\]](./resources/undefined) Čich.
+[^211] Čich.
 
-[\[212\]](./resources/undefined) Všechno pomíjející, z Goethova _Fausta_.
+[^212] Všechno pomíjející, z Goethova _Fausta_.
 
-[\[213\]](./resources/undefined) Nebe.
+[^213] Nebe.
 
-[\[214\]](./resources/undefined) Dojil jsi krávu mrzutost. Teď piješ sladkého mléka jejího vemene. – Z Nietzschovy _Tak pravil Zarathustra_, přel. O. Fischer.
+[^214] Dojil jsi krávu mrzutost. Teď piješ sladkého mléka jejího vemene. – Z Nietzschovy _Tak pravil Zarathustra_, přel. O. Fischer.
 
-[\[215\]](./resources/undefined) Skrze bohyni Partulu a Pertundu, teď je čas pít; Partula byla římská bohyně porodu, Pertunda obcování.
+[^215] Skrze bohyni Partulu a Pertundu, teď je čas pít; Partula byla římská bohyně porodu, Pertunda obcování.
 
-[\[216\]](./resources/undefined) Hodnověrnost. (V Irsku dostal napít podle zákona i po zavření hospody každý, kdo hodnověrně prokázal, že přichází ze vzdálenosti 4 mil.)
+[^216] Hodnověrnost. (V Irsku dostal napít podle zákona i po zavření hospody každý, kdo hodnověrně prokázal, že přichází ze vzdálenosti 4 mil.)
 
-[\[217\]](./resources/undefined) Požehnej vás Všemohoucí Bůh, Otec a Syn.
+[^217] Požehnej vás Všemohoucí Bůh, Otec a Syn.
 
-[\[218\]](./resources/undefined) Kupředu, děti!
+[^218] Kupředu, děti!
 
-[\[219\]](./resources/undefined) Cca 5,5 km, perská míra vzdálenosti.
+[^219] Cca 5,5 km, perská míra vzdálenosti.
 
-[\[220\]](./resources/undefined) Matka mě oženila.
+[^220] Matka mě oženila.
 
-[\[221\]](./resources/undefined) Všichni se napijeme absintu, čert ať nám vezme zadek.
+[^221] Všichni se napijeme absintu, čert ať nám vezme zadek.
 
-[\[222\]](./resources/undefined) Dobrou noc vespolek.
+[^222] Dobrou noc vespolek.
 
-[\[223\]](./resources/undefined) Na vaše (zdraví).
+[^223] Na vaše (zdraví).
 
-[\[224\]](./resources/undefined) Veseliti se budou na ložích svých; _Žalm 149, 5._
+[^224] Veseliti se budou na ložích svých; _Žalm 149, 5._
 
-[\[225\]](./resources/undefined) Aby se naplnilo písmo.
+[^225] Aby se naplnilo písmo.
 
-[\[226\]](./resources/undefined) Viděl jsem vodu vytékající z chrámu od boku pravého, aleluja.
+[^226] Viděl jsem vodu vytékající z chrámu od boku pravého, aleluja.
 
-[\[227\]](./resources/undefined) (Trochu vyšším hlasem.) A všichni, na něž voda splynula.
+[^227] (Trochu vyšším hlasem.) A všichni, na něž voda splynula.
 
-[\[228\]](./resources/undefined) (Slavnostně.) Spaseni jsou.
+[^228] (Slavnostně.) Spaseni jsou.
 
-[\[229\]](./resources/undefined) Krásná nelítostná paní; báseň J. Keatse (1795–1821).
+[^229] Krásná nelítostná paní; báseň J. Keatse (1795–1821).
 
-[\[230\]](./resources/undefined) K bohyni, která obveseluje mladost mou.
+[^230] K bohyni, která obveseluje mladost mou.
 
-[\[231\]](./resources/undefined) Dobrý večer, slečno Blanko, co je to za ulici?
+[^231] Dobrý večer, slečno Blanko, co je to za ulici?
 
-[\[232\]](./resources/undefined) Mabbot Street.
+[^232] Mabbot Street.
 
-[\[233\]](./resources/undefined) Ano, vím, tatínku.
+[^233] Ano, vím, tatínku.
 
-[\[234\]](./resources/undefined) Gojská zábava.
+[^234] Gojská zábava.
 
-[\[235\]](./resources/undefined) Jak chví se srdce tvé?
+[^235] Jak chví se srdce tvé?
 
-[\[236\]](./resources/undefined) Každý má jiný vkus.
+[^236] Každý má jiný vkus.
 
-[\[237\]](./resources/undefined) Dostatečný důkaz.
+[^237] Dostatečný důkaz.
 
-[\[238\]](./resources/undefined) Černá jsem, ale krásná, dcery jeruzalémské; zkomolená _Píseň Šalamounova_.
+[^238] Černá jsem, ale krásná, dcery jeruzalémské; zkomolená _Píseň Šalamounova_.
 
-[\[239\]](./resources/undefined) Komu to prospívá?
+[^239] Komu to prospívá?
 
-[\[240\]](./resources/undefined) Buď nastotisíckrát vítán.
+[^240] Buď nastotisíckrát vítán.
 
-[\[241\]](./resources/undefined) Jak krásný je tvůj král, Izraeli.
+[^241] Jak krásný je tvůj král, Izraeli.
 
-[\[242\]](./resources/undefined) Motlidba před židovským Dlouhým dnem.
+[^242] Motlidba před židovským Dlouhým dnem.
 
-[\[243\]](./resources/undefined) Zvěstuji vám velikou radost. Máme kata. (Parafráze slov, jimiž se vyhlašuje nový papež.)
+[^243] Zvěstuji vám velikou radost. Máme kata. (Parafráze slov, jimiž se vyhlašuje nový papež.)
 
-[\[244\]](./resources/undefined) Šťastný svazek. (Parafráze na Culpa Felix – Šťastná vina z velikonoční liturgie.)
+[^244] Šťastný svazek. (Parafráze na Culpa Felix – Šťastná vina z velikonoční liturgie.)
 
-[\[245\]](./resources/undefined) Jdoucí na smrt tě zdraví.
+[^245] Jdoucí na smrt tě zdraví.
 
-[\[246\]](./resources/undefined) Počátek hebrejské abecedy a další hebrejské výrazy.
+[^246] Počátek hebrejské abecedy a další hebrejské výrazy.
 
-[\[247\]](./resources/undefined) Nevtipný příběh je kočár bez koně.
+[^247] Nevtipný příběh je kočár bez koně.
 
-[\[248\]](./resources/undefined) Neporušená panna.
+[^248] Neporušená panna.
 
-[\[249\]](./resources/undefined) Židovký puch.
+[^249] Židovký puch.
 
-[\[250\]](./resources/undefined) Leopoldovo narození.
+[^250] Leopoldovo narození.
 
-[\[251\]](./resources/undefined) A nazváno bude jeho jméno Emmanuel.
+[^251] A nazváno bude jeho jméno Emmanuel.
 
-[\[252\]](./resources/undefined) Nebesa vypravují slávu boží_; Žalm 18, 1._
+[^252] Nebesa vypravují slávu boží_; Žalm 18, 1._
 
-[\[253\]](./resources/undefined) Ale, hergot… Mladost radost. Ať se mládí vydovádí.
+[^253] Ale, hergot… Mladost radost. Ať se mládí vydovádí.
 
-[\[254\]](./resources/undefined) Tak to je.
+[^254] Tak to je.
 
-[\[255\]](./resources/undefined) On přichází! Jsem to já! Muž, který se směje! Prvotní člověk!... Pánové a dámy, sázejte!... Sází se!... Už to nejde.
+[^255] On přichází! Jsem to já! Muž, který se směje! Prvotní člověk!... Pánové a dámy, sázejte!... Sází se!... Už to nejde.
 
-[\[256\]](./resources/undefined) Argument k ženě.
+[^256] Argument k ženě.
 
-[\[257\]](./resources/undefined) Živote můj, miluji tě; z Byronovy básně.
+[^257] Živote můj, miluji tě; z Byronovy básně.
 
-[\[258\]](./resources/undefined) Zhřešil jsem!
+[^258] Zhřešil jsem!
 
-[\[259\]](./resources/undefined) Zde v hampejzu, kde rozbili jsme stan; (z Villonovy _Závěti_).
+[^259] Zde v hampejzu, kde rozbili jsme stan; (z Villonovy _Závěti_).
 
-[\[260\]](./resources/undefined) Bez okolků.
+[^260] Bez okolků.
 
-[\[261\]](./resources/undefined) Daruj nám pokoj.
+[^261] Daruj nám pokoj.
 
-[\[262\]](./resources/undefined) Neukojené prahnutí / zpytavá žena / nás všechny zničí; (zkomolený úryvek z Wagnerovy _Valkýry_).
+[^262] Neukojené prahnutí / zpytavá žena / nás všechny zničí; (zkomolený úryvek z Wagnerovy _Valkýry_).
 
-[\[263\]](./resources/undefined) A vyvýšeni budou rohové spravedlivého; _Žalm 74, 11_.
+[^263] A vyvýšeni budou rohové spravedlivého; _Žalm 74, 11_.
 
-[\[264\]](./resources/undefined) Dráždivé spodní prádlo. Olala. Ten má frňák.
+[^264] Dráždivé spodní prádlo. Olala. Ten má frňák.
 
-[\[265\]](./resources/undefined) Ať žije upír!
+[^265] Ať žije upír!
 
-[\[266\]](./resources/undefined) Hovnajs!
+[^266] Hovnajs!
 
-[\[267\]](./resources/undefined) Všichni dopředu! Poklonit se! Všichni na místo!
+[^267] Všichni dopředu! Poklonit se! Všichni na místo!
 
-[\[268\]](./resources/undefined) Čtverec! Dva dopředu!... Vyrovnat!
+[^268] Čtverec! Dva dopředu!... Vyrovnat!
 
-[\[269\]](./resources/undefined) Vpřed! Osm! Skrz! Pozdrav! Pohyb rukou! Křížem!
+[^269] Vpřed! Osm! Skrz! Pozdrav! Pohyb rukou! Křížem!
 
-[\[270\]](./resources/undefined) Šuplíky! Dámský řetěz! Košík! Zády k sobě!
+[^270] Šuplíky! Dámský řetěz! Košík! Zády k sobě!
 
-[\[271\]](./resources/undefined) Pekařka! Kroužky! Můstky! Kolotoč! Šneci!
+[^271] Pekařka! Kroužky! Můstky! Kolotoč! Šneci!
 
-[\[272\]](./resources/undefined) Tančete se svými dámami! Vyměňte si dámy! Podejte své dámě kytičku! Poděkujte!
+[^272] Tančete se svými dámami! Vyměňte si dámy! Podejte své dámě kytičku! Poděkujte!
 
-[\[273\]](./resources/undefined) Ale ne, kdepak!... Nebudu sloužit!
+[^273] Ale ne, kdepak!... Nebudu sloužit!
 
-[\[274\]](./resources/undefined) Ostatně mi do toho nic není.
+[^274] Ostatně mi do toho nic není.
 
-[\[275\]](./resources/undefined) Nemočit.
+[^275] Nemočit.
 
-[\[276\]](./resources/undefined) Také v Paříži je to vidět.
+[^276] Také v Paříži je to vidět.
 
-[\[277\]](./resources/undefined) Ach jé.
+[^277] Ach jé.
 
-[\[278\]](./resources/undefined) Božínku!
+[^278] Božínku!
 
-[\[279\]](./resources/undefined) Milý kněže? (název písně J. Banima, 1798–1844).
+[^279] Milý kněže? (název písně J. Banima, 1798–1844).
 
-[\[280\]](./resources/undefined) Zemřeme za Irsko!
+[^280] Zemřeme za Irsko!
 
-[\[281\]](./resources/undefined) Chvátej loupiti; z _Izaiáše 8, 3_.
+[^281] Chvátej loupiti; z _Izaiáše 8, 3_.
 
-[\[282\]](./resources/undefined) Pozpátku „Alleluja: nebo kraloval Pán Bůh náš všemohoucí“; praktika při černé mši.
+[^282] Pozpátku „Alleluja: nebo kraloval Pán Bůh náš všemohoucí“; praktika při černé mši.
 
-[\[283\]](./resources/undefined) Odejde Jidáš. A odšed osidlem se oběsil; (_Mat. 27, 5_).
+[^283] Odejde Jidáš. A odšed osidlem se oběsil; (_Mat. 27, 5_).
 
-[\[284\]](./resources/undefined) Věrný Achates; nerozlučný druh Aenea ve Vergilově _Aeneidě_.
+[^284] Věrný Achates; nerozlučný druh Aenea ve Vergilově _Aeneidě_.
 
-[\[285\]](./resources/undefined) Po cestě.
+[^285] Po cestě.
 
-[\[286\]](./resources/undefined) Polosvět.
+[^286] Polosvět.
 
-[\[287\]](./resources/undefined) Kolegové, kumpáni.
+[^287] Kolegové, kumpáni.
 
-[\[288\]](./resources/undefined) Nejsem neznalá útrap a nešťastným pomáhám ráda; parafráze z Vergiliovy _Aeneidy_, přel. O. Vaňorný.
+[^288] Nejsem neznalá útrap a nešťastným pomáhám ráda; parafráze z Vergiliovy _Aeneidy_, přel. O. Vaňorný.
 
-[\[289\]](./resources/undefined) Vzácný pták (tj. bílá vrána).
+[^289] Vzácný pták (tj. bílá vrána).
 
-[\[290\]](./resources/undefined) Vypravěč, povídálek.
+[^290] Vypravěč, povídálek.
 
-[\[291\]](./resources/undefined) Chladnokrevnost.
+[^291] Chladnokrevnost.
 
-[\[292\]](./resources/undefined) Indiánská salaš.
+[^292] Indiánská salaš.
 
-[\[293\]](./resources/undefined) Pohlednice.
+[^293] Pohlednice.
 
-[\[294\]](./resources/undefined) Rozhled.
+[^294] Rozhled.
 
-[\[295\]](./resources/undefined) Dýka.
+[^295] Dýka.
 
-[\[296\]](./resources/undefined) Rozhřešení.
+[^296] Rozhřešení.
 
-[\[297\]](./resources/undefined) Mezi námi.
+[^297] Mezi námi.
 
-[\[298\]](./resources/undefined) Rázem.
+[^298] Rázem.
 
-[\[299\]](./resources/undefined) Hlava rodiny.
+[^299] Hlava rodiny.
 
-[\[300\]](./resources/undefined) Porušnost o sobě (v zásadě), porušnost případkově (náhodná); _Summa_ Tomáše Akvinského.
+[^300] Porušnost o sobě (v zásadě), porušnost případkově (náhodná); _Summa_ Tomáše Akvinského.
 
-[\[301\]](./resources/undefined) Ve všem všudy.
+[^301] Ve všem všudy.
 
-[\[302\]](./resources/undefined) Nezbytná podmínka.
+[^302] Nezbytná podmínka.
 
-[\[303\]](./resources/undefined) Tlumeně… důvěrníkovi.
+[^303] Tlumeně… důvěrníkovi.
 
-[\[304\]](./resources/undefined) Roberto okrádá svou běhnu.
+[^304] Roberto okrádá svou běhnu.
 
-[\[305\]](./resources/undefined) Sv. Tomáš Buldok.
+[^305] Sv. Tomáš Buldok.
 
-[\[306\]](./resources/undefined) Podle těla.
+[^306] Podle těla.
 
-[\[307\]](./resources/undefined) Vlast je tam, kde je dobrý život.
+[^307] Vlast je tam, kde je dobrý život.
 
-[\[308\]](./resources/undefined) Prozatím (propter tempore).
+[^308] Prozatím (propter tempore).
 
-[\[309\]](./resources/undefined) Farnost sv. Patrika; tj. ironicky irská církev.
+[^309] Farnost sv. Patrika; tj. ironicky irská církev.
 
-[\[310\]](./resources/undefined) Tělnatost.
+[^310] Tělnatost.
 
-[\[311\]](./resources/undefined) Sklon.
+[^311] Sklon.
 
-[\[312\]](./resources/undefined) Léta jsem promarnil hrou.
+[^312] Léta jsem promarnil hrou.
 
-[\[313\]](./resources/undefined) Vůdce a hrabě; členění dvojsborových vokálních skladeb.
+[^313] Vůdce a hrabě; členění dvojsborových vokálních skladeb.
 
-[\[314\]](./resources/undefined) O lstivosti Sirén / pějí básníci.
+[^314] O lstivosti Sirén / pějí básníci.
 
-[\[315\]](./resources/undefined) Dýchánky.
+[^315] Dýchánky.
 
-[\[316\]](./resources/undefined) Celý ten rod.
+[^316] Celý ten rod.
 
-[\[317\]](./resources/undefined) Zkomolený závěr písně od J. Jeepa (1582–1644) o ztroskotání lodi.
+[^317] Zkomolený závěr písně od J. Jeepa (1582–1644) o ztroskotání lodi.
 
-[\[318\]](./resources/undefined) Báseň _Naděje_ od rakouského básníka Naftali Herze Imbera (1856–1909).
+[^318] Báseň _Naděje_ od rakouského básníka Naftali Herze Imbera (1856–1909).
 
-[\[319\]](./resources/undefined) Potichu.
+[^319] Potichu.
 
-[\[320\]](./resources/undefined) Poutnický nápěv: Když vycházel Izrael z Egypta a dům Jakubův z národu cizího.
+[^320] Poutnický nápěv: Když vycházel Izrael z Egypta a dům Jakubův z národu cizího.
 
-[\[321\]](./resources/undefined) Venkov ve městě… Tady se člověk uzdraví.
+[^321] Venkov ve městě… Tady se člověk uzdraví.
 
-[\[322\]](./resources/undefined) Vždy ochotný.
+[^322] Vždy ochotný.
 
-[\[323\]](./resources/undefined) Světlost a dokonalost.
+[^323] Světlost a dokonalost.
 
-[\[324\]](./resources/undefined) Radost ze Zákona; židovský svátek.
+[^324] Radost ze Zákona; židovský svátek.
 
-[\[325\]](./resources/undefined) Píseň Šalomounova.
+[^325] Píseň Šalomounova.
 
-[\[326\]](./resources/undefined) Pisoár.
+[^326] Pisoár.
 
-[\[327\]](./resources/undefined) Jeho Veličenstvo.
+[^327] Jeho Veličenstvo.
 
-[\[328\]](./resources/undefined) Těhotná.
+[^328] Těhotná.
 
-[\[329\]](./resources/undefined) Ach, krásný touraineský kraji.
+[^329] Ach, krásný touraineský kraji.
 
-[\[330\]](./resources/undefined) Zkomolenina z „haruspex“, tj. vykladač z vnitřností obětin ve starém Římě.
+[^330] Zkomolenina z „haruspex“, tj. vykladač z vnitřností obětin ve starém Římě.
 
-[\[331\]](./resources/undefined) Paroháč.
+[^331] Paroháč.
 
-[\[332\]](./resources/undefined) Jak se máte? Děkuji, dobře, a vy?
+[^332] Jak se máte? Děkuji, dobře, a vy?
 
-[\[333\]](./resources/undefined) Služka.
+[^333] Služka.
 
-[\[334\]](./resources/undefined) Dvě sázená vejce, pane.
+[^334] Dvě sázená vejce, pane.
 
-[\[335\]](./resources/undefined) Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.
+[^335] Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.
 
-[\[336\]](./resources/undefined) Hospoda.
+[^336] Hospoda.
 
 </section>
+
+[^1]: Přistoupím k oltáři božímu.
+
+[^2]: Zlatoústý.
+
+[^3]: Algernon Charles Swinburne (1837–1909), angl. básník.
+
+[^4]: Po vínově rudém moři;  z Homérovy _Odysseje_.
+
+[^5]: Moře! Moře!; z Xenofontovy _Anabáze_.
+
+[^6]: Pupek.
+
+[^7]: Mater Misericordiae, Richmond – nemocnice v Dublinu.
+
+[^8]: Nechť tě obklopí liliový zástup zářících vyznavačů, nechť tě přivítá plesající sbor panen. (Irská modlitba nad umírajícím.)
+
+[^9]: Ve jménu Otce i Syna i Ducha svatého.
+
+[^10]: A v jednu svatou všeobecnou a apoštolskou církev; vyznání víry, součást mše.
+
+[^11]: Hrome! Panebože!
+
+[^12]: Láska matčina; láska k matce.
+
+[^13]: Po přímých cestách.
+
+[^14]: Cena Paříže, vyznamenání.
+
+[^15]: Mistr všech vědoucích (tj. Aristoteles), z Dantova _Pekla_.
+
+[^16]: Po sobě.
+
+[^17]: Vedle sebe.
+
+[^18]: Věčný zákon.
+
+[^19]: Biskupský pláštík.
+
+[^20]: Doslova: Přines s sebou; soudní obsílka.
+
+[^21]: Ať odpočívá v pokoji.
+
+[^22]: Na stráž!; z Verdiho _Trubadúra_.
+
+[^23]: Úvodní árie.
+
+[^24]: Slez dolů, plešatče, abys příliš nezplešatěl.
+
+[^25]: Ó ano, jistě!
+
+[^26]: Doslova: velký rok; nesmírná doba.
+
+[^27]: Kdo vás přivedl do tohoto trapného stavu?
+
+[^28]: Holub, Josefe.
+
+[^29]: Teplé mléko.
+
+[^30]: Králíku.
+
+[^31]: Loterie, terno.
+
+[^32]: Život Ježíšův.
+
+[^33]: To víš, je to legrační. Jsem socialista. Nevěřím v boží existenci. Tátovi to nesmím říct.
+
+[^34]: On věří?
+
+[^35]: Můj otec ano.
+
+[^36]: Konec.
+
+[^37]: Fyzika, chemie a přírodověda.
+
+[^38]: Zadělávané plíčky.
+
+[^39]: Boulevard St. Michel.
+
+[^40]: On, to jsem já sám.
+
+[^41]: Ještě dvě minuty.
+
+[^42]: Zavřeno.
+
+[^43]: Haha!
+
+[^44]: Cože?
+
+[^45]: Baletní sukýnka.
+
+[^46]: Dlouhé bílé kalhoty a krátké červené; název humoristických časopisů.
+
+[^47]: Řezy.
+
+[^48]: Krém bretonského pudinku.
+
+[^49]: Půl žejdlíku!
+
+[^50]: On je Ir. Holandský? Sýr ne. Irové, my dva, Irsko, víte? To jo!
+
+[^51]: Na zdraví!
+
+[^52]: Slečna.
+
+[^53]: Děvče pro všechno.
+
+[^54]: Můj syn.
+
+[^55]: Pramice uvízlá v písku.
+
+[^56]: Přemýšleje o hrozných věcech.
+
+[^57]: Samozřejmě.
+
+[^58]: Bratr čuník.
+
+[^59]: K tobě všeliké tělo přijde; _Žalm 65, 37_.
+
+[^60]: Spíše.
+
+[^61]: A viděl Bůh. A bylo velmi dobré; Genesis 1, 31.
+
+[^62]: Hle, jak malá nožka!
+
+[^63]: Dni i noci kvílí nad utrpěnými křivdami.
+
+[^64]: Onen totiž Lucifer, jenž nezná západu. (Z obřadů svěcení svící na Bílou sobotu, Lucifer = Světlonoš, Jitřenka.)
+
+[^65]: No dobře.
+
+[^66]: Tam ruku dám ti; z Mozartova _Dona Giovanniho_.
+
+[^67]: Zda chci či nechci; z Mozartova _Dona Giovanniho._
+
+[^68]: Sladké nic nedělání.
+
+[^69]: Stavovská solidarita, morálka.
+
+[^70]: Ejhle člověk! – Pilátův výrok o Ježíšovi.
+
+[^71]: Iesus Nazarenus Rex Iudaeorum – Ježíš Nazaretský, král židovský.
+
+[^72]: Iesus Hominum Salvator – Ježíš, spasitel lidí; In hoc Signo (vinces) – V tomto znamení (zvítězíš); In Hac Salus – V tomto (kříži) spása.
+
+[^73]: Stála Matka, mariánský hymnus.
+
+[^74]: Kdo je člověk!
+
+[^75]: Španělská pleť.
+
+[^76]: Jak chví se srdce mé; z Mozartova _Dona Giovanniho_.
+
+[^77]: Nevcházej v soud se služebníkem svým, Pane. _Žalm 142, 2_.
+
+[^78]: A neuveď nás v pokušení; z _Otčenáše_.
+
+[^79]: Do ráje (ať doprovodí tě andělé); pohřební zpěv.
+
+[^80]: Nechť má tělo.
+
+[^81]: O mrtvých nejinak než dříve, tj. stejně jako dříve – jen dobré.
+
+[^82]: Pesach, židovské Velikonce.
+
+[^83]: Slyš, Izraeli, Hospodin Bůh náš, Hospodin jeden jest.
+
+[^84]: Léta Páně.
+
+[^85]: Říše římská.
+
+[^86]: Vstupte, děti!
+
+[^87]: Pane, smiluj se!
+
+[^88]: Pokoj bychom vyprosili tobě… porozprávět sobě… neb vichr právě ustal ve své zlobě; z Dantovy _Božské komedie_, přel. O. F. Babler.
+
+[^89]: V tom vzduchu šerém; z Dantovy _Božské komedie_, přel. O. F. Babler.
+
+[^90]: Tak pokojná ta auriflamma (praporec); z Dantovy _Božské komedie_, přel. K. Vrátný.
+
+[^91]: Větší touhou, zírat zas, mě zažeh; z Dantovy _Božské komedie_, přel. K. Vrátný.
+
+[^92]: Itálie, učitelka umění.
+
+[^93]: Zákon odvety; z knihy _Exodus_.
+
+[^94]: Byla kdysi Trója; z Vergiliovy _Aeneidy_.
+
+[^95]: Žádné statky.
+
+[^96]: Bůh to byl, jenž poklid tento mi zjednal; z Vergiliových _Zpěvů pastýřských_, přel. O. Vaňorný.
+
+[^97]: Naše věc je svatá; z opery _Hugenoti_ od. G. Meyerbeera (1791–1864).
+
+[^98]: Don Giovanni! K tomuto kvasu jsi mne pozval! Z Mozartova _Dona Giovanniho,_ přel. R. Vonásek.
+
+[^99]: A on pak trubku udělal si z řiti; z Dantovy _Božské komedie_, přel. O. F. Babler.
+
+[^100]: Zdráv buď, Mistře.
+
+[^101]: Předpeklí.
+
+[^102]: Ani nejmenovat!
+
+[^103]: Člun je na souši. Jsem kněz. – Slova z irského slabikáře.
+
+[^104]: Pohledem člověka zahubí (bazilišek).
+
+[^105]: Kraj mládí; v keltské mytologii blažené bezčasí.
+
+[^106]: Běhna.
+
+[^107]: Čemu se posmíváš, tomu budeš sloužit.
+
+[^108]: Je Velký pátek!
+
+[^109]: Ještě dvacet sous. Budeme dělat prasečinky. Minet? Chceš?
+
+[^110]: Rozvod od stolu a lože.
+
+[^111]: Tvary slovesa močit.
+
+[^112]: Měli by mě zarazit.
+
+[^113]: Ba co více. V lidské společnosti záleží nejvíce na tom, aby byla láska mezi mnohými.
+
+[^114]: Oroduj za nás.
+
+[^115]: Polib mi prdel! Srdíčko moje.
+
+[^116]: Praví Eglinton Posloupnopisec.
+
+[^117]: V ten čas, kdy život náš je na půl cestě; z Dantovy _Božské komedie_, přel. K. Vrátný.
+
+[^118]: Ještě víc. Podnes. Znovu. Potom.
+
+[^119]: Sebetrapič – název antického dramatu a též básně Ch. Baudelaira.
+
+[^120]: Býk ověnčený k oběti.
+
+[^121]: Štěpánovo děvče. Ano, jeho. Gelindo se rozhodne, že nebude Š. D. milovat.
+
+[^122]: Otče, pravil; padající Ikarus volá svého otce podobně jako Kristus na kříži.
+
+[^123]: Co chcete?
+
+[^124]: Našel jsem to! Už to mám!
+
+[^125]: Já sám.
+
+[^126]: _Summa_ proti pohanům od Tomáše Akvinského.
+
+[^127]: Irský bůh lásky a krásy.
+
+[^128]: Náš přítel.
+
+[^129]: _Třicetiletá_ – Balzakův román.
+
+[^130]: V pravdě je hodné a spravedlivé; počátek eucharistické modlitby při mši.
+
+[^131]: Počet vyvolených.
+
+[^132]: Ejakulace semene do ženského přirození.
+
+[^133]: Tvořit beránky.
+
+[^134]: Bože, ku pomoci.
+
+[^135]: Reš (hebrejská číslice): Blahoslavení neposkvrnění: Počátek slov tvých jest pravda: na věky všickni soudové spravedlnosti tvé. _Žalm 118_.
+
+[^136]: Sin (hebrejská číslice): Knížata pronásledovala mne bez příčiny: a slov tvých strachovalo se srdce mé.
+
+[^137]: Taky jsem míval takové názory, když jsem byl mladičký jako vy. Potom jsem se přesvědčil, že svět je dravec. Škoda. Vždyť váš hlas… byl by zdrojem příjmu, jen do toho. A zatím se obětujete. Oběť nekrvavá.
+
+[^138]: Doufejme.
+
+[^139]: Dejte na má slova. Uvažujte.
+
+[^140]: Budu uvažovat.
+
+[^141]: Ale vážně, hm?
+
+[^142]: Vida. Přijďte za mnou a myslete na to.
+
+[^143]: Nashledanou, Mistře. A děkuji.
+
+[^144]: Není za co. Promiňte. Všechno nejlepší.
+
+[^145]: Nerozluštitelné kabalistické zaklínadlo.
+
+[^146]: Hluboký hlas, bas.
+
+[^147]: Chtěl jsem z přinucení.
+
+[^148]: Poslední módní výkřik.
+
+[^149]: Ve městě, u moře.
+
+[^150]: Milostně, leč nepříliš.
+
+[^151]: Celá láska se mi zjevila, upřel jsem na ni pohled; z Flotowovy opery _Marta_.
+
+[^152]: Komorní hudba. Nočník.
+
+[^153]: Zde v těch kobkách svátosti; z Mozartovy _Kouzelné flétny_, přel. J. K. Chmelenský.
+
+[^154]: Má vina.
+
+[^155]: Příteli.
+
+[^156]: Buď zticha.
+
+[^157]: Houbovité tělísko.
+
+[^158]: Ve chvíli smrti při popravě.
+
+[^159]: Mečík krvavý.
+
+[^160]: Irský pozemní hokej.
+
+[^161]: Družina.
+
+[^162]: Pro veřejné blaho.
+
+[^163]: Irský přípitek.
+
+[^164]: Irský národ; jméno vlasteneckého sdružení.
+
+[^165]: Přestaň.
+
+[^166]: Příčetný.
+
+[^167]: Naplivat na Angličany! Věrolomný Albion!
+
+[^168]: Třesky plesky.
+
+[^169]: V zahradě.
+
+[^170]: Německá sentimentální vojenská píseň.
+
+[^171]: V lůně matčině.
+
+[^172]: Zjevení Páně neboli Tří králů.
+
+[^173]: Vstaň, osvěť se (Jeruzaléme).
+
+[^174]: Všickni … ze Sáby přijdou.
+
+[^175]: Spomožení naše ve jménu Páně. – Který stvořil nebe i zemi. – Pán s vámi. – I s duchem tvým.
+
+[^176]: Bože, jehož jménem se veškerenstvo posvěcuje, vylej své požehnání na toto stvoření: a učiň, aby kdožkoli jich podle zákona i vůle s díkučiněním požívati bude, skrze vzývání Tvého přesvatého jména tvým působením tělesného zdraví i duševní záštity dosáhl skrze Krista Pána našeho.
+
+[^177]: Velevážený pan.
+
+[^178]: Spojka „a“.
+
+[^179]: Sbohem, milý kamaráde! Sbohem!
+
+[^180]: Mše za zemřelé.
+
+[^181]: Zkratky nehorázných titulů, podle E. Kreutzera znamenají: Podvazkový rytíř, Rytíř sv. Patrika, Chrámový rytíř (tj. zednář), Tajný rada, Rytířský komandér lázeňského řádu, Poslanec, Smírčí soudce, Bakalář lékařství, Řád za vynikající službu, Sodomita, Vrchní štolba, Člen Královské irské akademie, Bakalář práv, Doktor hudby, Chudinský opatrovník, Člen Trojické koleje v Dublinu, Člen Královské irské univerzity, Člen Královské irské lékařské koleje, Člen Královské irské chirurgické koleje.
+
+[^182]: Pěkná podívaná!
+
+[^183]: Té neskonalé (svátosti) – hymnus od Tomáše Akvinského.
+
+[^184]: Chléb z nebe dal jsi jim.
+
+[^185]: Mrzutost.
+
+[^186]: Chvalte Hospodina všickni národové; _Žalm 116_.
+
+[^187]: Prádlo.
+
+[^188]: Správně: La causa è santa, tj. svatá věc.
+
+[^189]: Vari z cesty; píseň irského básníka Ch. G. Duffyho.
+
+[^190]: Dobrou noc, slečno. Muž miluje krásnou dívku.
+
+[^191]: Následným účinkem.
+
+[^192]: Panno a matko, dcero syna svého; z Dantovy _Božské komedie_, přel. K. Vrátný.
+
+[^193]: Petr rybář = papež.
+
+[^194]: Aby se poznalo tělesné tajemství našeho pohlaví.
+
+[^195]: Modlete se, bratři, za mě.
+
+[^196]: Kde, jak.
+
+[^197]: Štěpánská píseň.
+
+[^198]: Smrt policajtům!
+
+[^199]: Slintavka.
+
+[^200]: Taková a tak veliká je zkaženost této doby, římští občané, že naše vdané paní mají raději chlípná lechtání kdejakého libyjského polomuže než pořádné moudí a strmé ztopoření římských centuriónů.
+
+[^201]: Ale jistě… tisíceré díky.
+
+[^202]: Obchodník s pláštěnkami.
+
+[^203]: Ploditel, tj. Mulligan.
+
+[^204]: U něho… hrome… vážně.
+
+[^205]: To jsou dvě věci.
+
+[^206]: Těhotná.
+
+[^207]: Plod bez srdce v plodu.
+
+[^208]: Budiž!
+
+[^209]: Mrtvé moře.
+
+[^210]: Porod.
+
+[^211]: Čich.
+
+[^212]: Všechno pomíjející, z Goethova _Fausta_.
+
+[^213]: Nebe.
+
+[^214]: Dojil jsi krávu mrzutost. Teď piješ sladkého mléka jejího vemene. – Z Nietzschovy _Tak pravil Zarathustra_, přel. O. Fischer.
+
+[^215]: Skrze bohyni Partulu a Pertundu, teď je čas pít; Partula byla římská bohyně porodu, Pertunda obcování.
+
+[^216]: Hodnověrnost. (V Irsku dostal napít podle zákona i po zavření hospody každý, kdo hodnověrně prokázal, že přichází ze vzdálenosti 4 mil.)
+
+[^217]: Požehnej vás Všemohoucí Bůh, Otec a Syn.
+
+[^218]: Kupředu, děti!
+
+[^219]: Cca 5,5 km, perská míra vzdálenosti.
+
+[^220]: Matka mě oženila.
+
+[^221]: Všichni se napijeme absintu, čert ať nám vezme zadek.
+
+[^222]: Dobrou noc vespolek.
+
+[^223]: Na vaše (zdraví).
+
+[^224]: Veseliti se budou na ložích svých; _Žalm 149, 5._
+
+[^225]: Aby se naplnilo písmo.
+
+[^226]: Viděl jsem vodu vytékající z chrámu od boku pravého, aleluja.
+
+[^227]: (Trochu vyšším hlasem.) A všichni, na něž voda splynula.
+
+[^228]: (Slavnostně.) Spaseni jsou.
+
+[^229]: Krásná nelítostná paní; báseň J. Keatse (1795–1821).
+
+[^230]: K bohyni, která obveseluje mladost mou.
+
+[^231]: Dobrý večer, slečno Blanko, co je to za ulici?
+
+[^232]: Mabbot Street.
+
+[^233]: Ano, vím, tatínku.
+
+[^234]: Gojská zábava.
+
+[^235]: Jak chví se srdce tvé?
+
+[^236]: Každý má jiný vkus.
+
+[^237]: Dostatečný důkaz.
+
+[^238]: Černá jsem, ale krásná, dcery jeruzalémské; zkomolená _Píseň Šalamounova_.
+
+[^239]: Komu to prospívá?
+
+[^240]: Buď nastotisíckrát vítán.
+
+[^241]: Jak krásný je tvůj král, Izraeli.
+
+[^242]: Motlidba před židovským Dlouhým dnem.
+
+[^243]: Zvěstuji vám velikou radost. Máme kata. (Parafráze slov, jimiž se vyhlašuje nový papež.)
+
+[^244]: Šťastný svazek. (Parafráze na Culpa Felix – Šťastná vina z velikonoční liturgie.)
+
+[^245]: Jdoucí na smrt tě zdraví.
+
+[^246]: Počátek hebrejské abecedy a další hebrejské výrazy.
+
+[^247]: Nevtipný příběh je kočár bez koně.
+
+[^248]: Neporušená panna.
+
+[^249]: Židovký puch.
+
+[^250]: Leopoldovo narození.
+
+[^251]: A nazváno bude jeho jméno Emmanuel.
+
+[^252]: Nebesa vypravují slávu boží_; Žalm 18, 1._
+
+[^253]: Ale, hergot… Mladost radost. Ať se mládí vydovádí.
+
+[^254]: Tak to je.
+
+[^255]: On přichází! Jsem to já! Muž, který se směje! Prvotní člověk!... Pánové a dámy, sázejte!... Sází se!... Už to nejde.
+
+[^256]: Argument k ženě.
+
+[^257]: Živote můj, miluji tě; z Byronovy básně.
+
+[^258]: Zhřešil jsem!
+
+[^259]: Zde v hampejzu, kde rozbili jsme stan; (z Villonovy _Závěti_).
+
+[^260]: Bez okolků.
+
+[^261]: Daruj nám pokoj.
+
+[^262]: Neukojené prahnutí / zpytavá žena / nás všechny zničí; (zkomolený úryvek z Wagnerovy _Valkýry_).
+
+[^263]: A vyvýšeni budou rohové spravedlivého; _Žalm 74, 11_.
+
+[^264]: Dráždivé spodní prádlo. Olala. Ten má frňák.
+
+[^265]: Ať žije upír!
+
+[^266]: Hovnajs!
+
+[^267]: Všichni dopředu! Poklonit se! Všichni na místo!
+
+[^268]: Čtverec! Dva dopředu!... Vyrovnat!
+
+[^269]: Vpřed! Osm! Skrz! Pozdrav! Pohyb rukou! Křížem!
+
+[^270]: Šuplíky! Dámský řetěz! Košík! Zády k sobě!
+
+[^271]: Pekařka! Kroužky! Můstky! Kolotoč! Šneci!
+
+[^272]: Tančete se svými dámami! Vyměňte si dámy! Podejte své dámě kytičku! Poděkujte!
+
+[^273]: Ale ne, kdepak!... Nebudu sloužit!
+
+[^274]: Ostatně mi do toho nic není.
+
+[^275]: Nemočit.
+
+[^276]: Také v Paříži je to vidět.
+
+[^277]: Ach jé.
+
+[^278]: Božínku!
+
+[^279]: Milý kněže? (název písně J. Banima, 1798–1844).
+
+[^280]: Zemřeme za Irsko!
+
+[^281]: Chvátej loupiti; z _Izaiáše 8, 3_.
+
+[^282]: Pozpátku „Alleluja: nebo kraloval Pán Bůh náš všemohoucí“; praktika při černé mši.
+
+[^283]: Odejde Jidáš. A odšed osidlem se oběsil; (_Mat. 27, 5_).
+
+[^284]: Věrný Achates; nerozlučný druh Aenea ve Vergilově _Aeneidě_.
+
+[^285]: Po cestě.
+
+[^286]: Polosvět.
+
+[^287]: Kolegové, kumpáni.
+
+[^288]: Nejsem neznalá útrap a nešťastným pomáhám ráda; parafráze z Vergiliovy _Aeneidy_, přel. O. Vaňorný.
+
+[^289]: Vzácný pták (tj. bílá vrána).
+
+[^290]: Vypravěč, povídálek.
+
+[^291]: Chladnokrevnost.
+
+[^292]: Indiánská salaš.
+
+[^293]: Pohlednice.
+
+[^294]: Rozhled.
+
+[^295]: Dýka.
+
+[^296]: Rozhřešení.
+
+[^297]: Mezi námi.
+
+[^298]: Rázem.
+
+[^299]: Hlava rodiny.
+
+[^300]: Porušnost o sobě (v zásadě), porušnost případkově (náhodná); _Summa_ Tomáše Akvinského.
+
+[^301]: Ve všem všudy.
+
+[^302]: Nezbytná podmínka.
+
+[^303]: Tlumeně… důvěrníkovi.
+
+[^304]: Roberto okrádá svou běhnu.
+
+[^305]: Sv. Tomáš Buldok.
+
+[^306]: Podle těla.
+
+[^307]: Vlast je tam, kde je dobrý život.
+
+[^308]: Prozatím (propter tempore).
+
+[^309]: Farnost sv. Patrika; tj. ironicky irská církev.
+
+[^310]: Tělnatost.
+
+[^311]: Sklon.
+
+[^312]: Léta jsem promarnil hrou.
+
+[^313]: Vůdce a hrabě; členění dvojsborových vokálních skladeb.
+
+[^314]: O lstivosti Sirén / pějí básníci.
+
+[^315]: Dýchánky.
+
+[^316]: Celý ten rod.
+
+[^317]: Zkomolený závěr písně od J. Jeepa (1582–1644) o ztroskotání lodi.
+
+[^318]: Báseň _Naděje_ od rakouského básníka Naftali Herze Imbera (1856–1909).
+
+[^319]: Potichu.
+
+[^320]: Poutnický nápěv: Když vycházel Izrael z Egypta a dům Jakubův z národu cizího.
+
+[^321]: Venkov ve městě… Tady se člověk uzdraví.
+
+[^322]: Vždy ochotný.
+
+[^323]: Světlost a dokonalost.
+
+[^324]: Radost ze Zákona; židovský svátek.
+
+[^325]: Píseň Šalomounova.
+
+[^326]: Pisoár.
+
+[^327]: Jeho Veličenstvo.
+
+[^328]: Těhotná.
+
+[^329]: Ach, krásný touraineský kraji.
+
+[^330]: Zkomolenina z „haruspex“, tj. vykladač z vnitřností obětin ve starém Římě.
+
+[^331]: Paroháč.
+
+[^332]: Jak se máte? Děkuji, dobře, a vy?
+
+[^333]: Služka.
+
+[^334]: Dvě sázená vejce, pane.
+
+[^335]: Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.
+
+[^336]: Hospoda.
