@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "joyce-odysseus-f8fd506",
-  "revision": "f8fd506",
+  "identifier": "joyce-odysseus-ac6de5d",
+  "revision": "ac6de5d",
   "readingOrder": [
     "promo.html",
     "odysseus_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:01:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640104534
+    "date": "Tue Oct 04 2022 16:49:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902177679
   },
   "documents": [
     {
@@ -39,9 +39,9 @@
     {
       "title": "I",
       "file": "odysseus_005.html",
-      "words": 14834,
-      "chars": 89488,
-      "ideas": 720,
+      "words": 15121,
+      "chars": 90924,
+      "ideas": 775,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -59,9 +59,9 @@
     {
       "title": "II",
       "file": "odysseus_007.html",
-      "words": 152325,
-      "chars": 934908,
-      "ideas": 5728,
+      "words": 153562,
+      "chars": 941138,
+      "ideas": 5908,
       "role": "chapter",
       "order": 2,
       "prev": "odysseus_005.html",
@@ -79,9 +79,9 @@
     {
       "title": "III",
       "file": "odysseus_009.html",
-      "words": 54892,
-      "chars": 333726,
-      "ideas": 1118,
+      "words": 55048,
+      "chars": 334489,
+      "ideas": 1151,
       "role": "chapter",
       "order": 3,
       "prev": "odysseus_007.html",
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 112,
+      "words": 111,
       "chars": 764,
-      "ideas": 14,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "odysseus_012.html",
@@ -159,14 +159,14 @@
   ],
   "totals": {
     "all": {
-      "words": 228888,
-      "chars": 1401268,
-      "ideas": 8283
+      "words": 230567,
+      "chars": 1409697,
+      "ideas": 8550
     },
     "chapters": {
-      "words": 228771,
-      "chars": 1400474,
-      "ideas": 8265
+      "words": 230451,
+      "chars": 1408903,
+      "ideas": 8533
     }
   }
 }

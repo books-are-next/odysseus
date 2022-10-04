@@ -5,684 +5,12 @@ contentType: prose
 
 
 
-[^1]: Přistoupím k oltáři božímu.
-
-[^2]: Zlatoústý.
-
-[^3]: Algernon Charles Swinburne (1837–1909), angl. básník.
-
-[^4]: Po vínově rudém moři;  z Homérovy _Odysseje_.
-
-[^5]: Moře! Moře!; z Xenofontovy _Anabáze_.
-
-[^6]: Pupek.
-
-[^7]: Mater Misericordiae, Richmond – nemocnice v Dublinu.
-
-[^8]: Nechť tě obklopí liliový zástup zářících vyznavačů, nechť tě přivítá plesající sbor panen. (Irská modlitba nad umírajícím.)
-
-[^9]: Ve jménu Otce i Syna i Ducha svatého.
-
-[^10]: A v jednu svatou všeobecnou a apoštolskou církev; vyznání víry, součást mše.
-
-[^11]: Hrome! Panebože!
-
-[^12]: Láska matčina; láska k matce.
-
-[^13]: Po přímých cestách.
-
-[^14]: Cena Paříže, vyznamenání.
-
-[^15]: Mistr všech vědoucích (tj. Aristoteles), z Dantova _Pekla_.
-
-[^16]: Po sobě.
-
-[^17]: Vedle sebe.
-
-[^18]: Věčný zákon.
-
-[^19]: Biskupský pláštík.
-
-[^20]: Doslova: Přines s sebou; soudní obsílka.
-
-[^21]: Ať odpočívá v pokoji.
-
-[^22]: Na stráž!; z Verdiho _Trubadúra_.
-
-[^23]: Úvodní árie.
-
-[^24]: Slez dolů, plešatče, abys příliš nezplešatěl.
-
-[^25]: Ó ano, jistě!
-
-[^26]: Doslova: velký rok; nesmírná doba.
-
-[^27]: Kdo vás přivedl do tohoto trapného stavu?
-
-[^28]: Holub, Josefe.
-
-[^29]: Teplé mléko.
-
-[^30]: Králíku.
-
-[^31]: Loterie, terno.
-
-[^32]: Život Ježíšův.
-
-[^33]: To víš, je to legrační. Jsem socialista. Nevěřím v boží existenci. Tátovi to nesmím říct.
-
-[^34]: On věří?
-
-[^35]: Můj otec ano.
-
-[^36]: Konec.
-
-[^37]: Fyzika, chemie a přírodověda.
-
-[^38]: Zadělávané plíčky.
-
-[^39]: Boulevard St. Michel.
-
-[^40]: On, to jsem já sám.
-
-[^41]: Ještě dvě minuty.
-
-[^42]: Zavřeno.
-
-[^43]: Haha!
-
-[^44]: Cože?
-
-[^45]: Baletní sukýnka.
-
-[^46]: Dlouhé bílé kalhoty a krátké červené; název humoristických časopisů.
-
-[^47]: Řezy.
-
-[^48]: Krém bretonského pudinku.
-
-[^49]: Půl žejdlíku!
-
-[^50]: On je Ir. Holandský? Sýr ne. Irové, my dva, Irsko, víte? To jo!
-
-[^51]: Na zdraví!
-
-[^52]: Slečna.
-
-[^53]: Děvče pro všechno.
-
-[^54]: Můj syn.
-
-[^55]: Pramice uvízlá v písku.
-
-[^56]: Přemýšleje o hrozných věcech.
-
-[^57]: Samozřejmě.
-
-[^58]: Bratr čuník.
-
-[^59]: K tobě všeliké tělo přijde; _Žalm 65, 37_.
-
-[^60]: Spíše.
-
-[^61]: A viděl Bůh. A bylo velmi dobré; Genesis 1, 31.
-
-[^62]: Hle, jak malá nožka!
-
-[^63]: Dni i noci kvílí nad utrpěnými křivdami.
-
-[^64]: Onen totiž Lucifer, jenž nezná západu. (Z obřadů svěcení svící na Bílou sobotu, Lucifer = Světlonoš, Jitřenka.)
-
-[^65]: No dobře.
-
-[^66]: Tam ruku dám ti; z Mozartova _Dona Giovanniho_.
-
-[^67]: Zda chci či nechci; z Mozartova _Dona Giovanniho._
-
-[^68]: Sladké nic nedělání.
-
-[^69]: Stavovská solidarita, morálka.
-
-[^70]: Ejhle člověk! – Pilátův výrok o Ježíšovi.
-
-[^71]: Iesus Nazarenus Rex Iudaeorum – Ježíš Nazaretský, král židovský.
-
-[^72]: Iesus Hominum Salvator – Ježíš, spasitel lidí; In hoc Signo (vinces) – V tomto znamení (zvítězíš); In Hac Salus – V tomto (kříži) spása.
-
-[^73]: Stála Matka, mariánský hymnus.
-
-[^74]: Kdo je člověk!
-
-[^75]: Španělská pleť.
-
-[^76]: Jak chví se srdce mé; z Mozartova _Dona Giovanniho_.
-
-[^77]: Nevcházej v soud se služebníkem svým, Pane. _Žalm 142, 2_.
-
-[^78]: A neuveď nás v pokušení; z _Otčenáše_.
-
-[^79]: Do ráje (ať doprovodí tě andělé); pohřební zpěv.
-
-[^80]: Nechť má tělo.
-
-[^81]: O mrtvých nejinak než dříve, tj. stejně jako dříve – jen dobré.
-
-[^82]: Pesach, židovské Velikonce.
-
-[^83]: Slyš, Izraeli, Hospodin Bůh náš, Hospodin jeden jest.
-
-[^84]: Léta Páně.
-
-[^85]: Říše římská.
-
-[^86]: Vstupte, děti!
-
-[^87]: Pane, smiluj se!
-
-[^88]: Pokoj bychom vyprosili tobě… porozprávět sobě… neb vichr právě ustal ve své zlobě; z Dantovy _Božské komedie_, přel. O. F. Babler.
-
-[^89]: V tom vzduchu šerém; z Dantovy _Božské komedie_, přel. O. F. Babler.
-
-[^90]: Tak pokojná ta auriflamma (praporec); z Dantovy _Božské komedie_, přel. K. Vrátný.
-
-[^91]: Větší touhou, zírat zas, mě zažeh; z Dantovy _Božské komedie_, přel. K. Vrátný.
-
-[^92]: Itálie, učitelka umění.
-
-[^93]: Zákon odvety; z knihy _Exodus_.
-
-[^94]: Byla kdysi Trója; z Vergiliovy _Aeneidy_.
-
-[^95]: Žádné statky.
-
-[^96]: Bůh to byl, jenž poklid tento mi zjednal; z Vergiliových _Zpěvů pastýřských_, přel. O. Vaňorný.
-
-[^97]: Naše věc je svatá; z opery _Hugenoti_ od. G. Meyerbeera (1791–1864).
-
-[^98]: Don Giovanni! K tomuto kvasu jsi mne pozval! Z Mozartova _Dona Giovanniho,_ přel. R. Vonásek.
-
-[^99]: A on pak trubku udělal si z řiti; z Dantovy _Božské komedie_, přel. O. F. Babler.
-
-[^100]: Zdráv buď, Mistře.
-
-[^101]: Předpeklí.
-
-[^102]: Ani nejmenovat!
-
-[^103]: Člun je na souši. Jsem kněz. – Slova z irského slabikáře.
-
-[^104]: Pohledem člověka zahubí (bazilišek).
-
-[^105]: Kraj mládí; v keltské mytologii blažené bezčasí.
-
-[^106]: Běhna.
-
-[^107]: Čemu se posmíváš, tomu budeš sloužit.
-
-[^108]: Je Velký pátek!
-
-[^109]: Ještě dvacet sous. Budeme dělat prasečinky. Minet? Chceš?
-
-[^110]: Rozvod od stolu a lože.
-
-[^111]: Tvary slovesa močit.
-
-[^112]: Měli by mě zarazit.
-
-[^113]: Ba co více. V lidské společnosti záleží nejvíce na tom, aby byla láska mezi mnohými.
-
-[^114]: Oroduj za nás.
-
-[^115]: Polib mi prdel! Srdíčko moje.
-
-[^116]: Praví Eglinton Posloupnopisec.
-
-[^117]: V ten čas, kdy život náš je na půl cestě; z Dantovy _Božské komedie_, přel. K. Vrátný.
-
-[^118]: Ještě víc. Podnes. Znovu. Potom.
-
-[^119]: Sebetrapič – název antického dramatu a též básně Ch. Baudelaira.
-
-[^120]: Býk ověnčený k oběti.
-
-[^121]: Štěpánovo děvče. Ano, jeho. Gelindo se rozhodne, že nebude Š. D. milovat.
-
-[^122]: Otče, pravil; padající Ikarus volá svého otce podobně jako Kristus na kříži.
-
-[^123]: Co chcete?
-
-[^124]: Našel jsem to! Už to mám!
-
-[^125]: Já sám.
-
-[^126]: _Summa_ proti pohanům od Tomáše Akvinského.
-
-[^127]: Irský bůh lásky a krásy.
-
-[^128]: Náš přítel.
-
-[^129]: _Třicetiletá_ – Balzakův román.
-
-[^130]: V pravdě je hodné a spravedlivé; počátek eucharistické modlitby při mši.
-
-[^131]: Počet vyvolených.
-
-[^132]: Ejakulace semene do ženského přirození.
-
-[^133]: Tvořit beránky.
-
-[^134]: Bože, ku pomoci.
-
-[^135]: Reš (hebrejská číslice): Blahoslavení neposkvrnění: Počátek slov tvých jest pravda: na věky všickni soudové spravedlnosti tvé. _Žalm 118_.
-
-[^136]: Sin (hebrejská číslice): Knížata pronásledovala mne bez příčiny: a slov tvých strachovalo se srdce mé.
-
-[^137]: Taky jsem míval takové názory, když jsem byl mladičký jako vy. Potom jsem se přesvědčil, že svět je dravec. Škoda. Vždyť váš hlas… byl by zdrojem příjmu, jen do toho. A zatím se obětujete. Oběť nekrvavá.
-
-[^138]: Doufejme.
-
-[^139]: Dejte na má slova. Uvažujte.
-
-[^140]: Budu uvažovat.
-
-[^141]: Ale vážně, hm?
-
-[^142]: Vida. Přijďte za mnou a myslete na to.
-
-[^143]: Nashledanou, Mistře. A děkuji.
-
-[^144]: Není za co. Promiňte. Všechno nejlepší.
-
-[^145]: Nerozluštitelné kabalistické zaklínadlo.
-
-[^146]: Hluboký hlas, bas.
-
-[^147]: Chtěl jsem z přinucení.
-
-[^148]: Poslední módní výkřik.
-
-[^149]: Ve městě, u moře.
-
-[^150]: Milostně, leč nepříliš.
-
-[^151]: Celá láska se mi zjevila, upřel jsem na ni pohled; z Flotowovy opery _Marta_.
-
-[^152]: Komorní hudba. Nočník.
-
-[^153]: Zde v těch kobkách svátosti; z Mozartovy _Kouzelné flétny_, přel. J. K. Chmelenský.
-
-[^154]: Má vina.
-
-[^155]: Příteli.
-
-[^156]: Buď zticha.
-
-[^157]: Houbovité tělísko.
-
-[^158]: Ve chvíli smrti při popravě.
-
-[^159]: Mečík krvavý.
-
-[^160]: Irský pozemní hokej.
-
-[^161]: Družina.
-
-[^162]: Pro veřejné blaho.
-
-[^163]: Irský přípitek.
-
-[^164]: Irský národ; jméno vlasteneckého sdružení.
-
-[^165]: Přestaň.
-
-[^166]: Příčetný.
-
-[^167]: Naplivat na Angličany! Věrolomný Albion!
-
-[^168]: Třesky plesky.
-
-[^169]: V zahradě.
-
-[^170]: Německá sentimentální vojenská píseň.
-
-[^171]: V lůně matčině.
-
-[^172]: Zjevení Páně neboli Tří králů.
-
-[^173]: Vstaň, osvěť se (Jeruzaléme).
-
-[^174]: Všickni … ze Sáby přijdou.
-
-[^175]: Spomožení naše ve jménu Páně. – Který stvořil nebe i zemi. – Pán s vámi. – I s duchem tvým.
-
-[^176]: Bože, jehož jménem se veškerenstvo posvěcuje, vylej své požehnání na toto stvoření: a učiň, aby kdožkoli jich podle zákona i vůle s díkučiněním požívati bude, skrze vzývání Tvého přesvatého jména tvým působením tělesného zdraví i duševní záštity dosáhl skrze Krista Pána našeho.
-
-[^177]: Velevážený pan.
-
-[^178]: Spojka „a“.
-
-[^179]: Sbohem, milý kamaráde! Sbohem!
-
-[^180]: Mše za zemřelé.
-
-[^181]: Zkratky nehorázných titulů, podle E. Kreutzera znamenají: Podvazkový rytíř, Rytíř sv. Patrika, Chrámový rytíř (tj. zednář), Tajný rada, Rytířský komandér lázeňského řádu, Poslanec, Smírčí soudce, Bakalář lékařství, Řád za vynikající službu, Sodomita, Vrchní štolba, Člen Královské irské akademie, Bakalář práv, Doktor hudby, Chudinský opatrovník, Člen Trojické koleje v Dublinu, Člen Královské irské univerzity, Člen Královské irské lékařské koleje, Člen Královské irské chirurgické koleje.
-
-[^182]: Pěkná podívaná!
-
-[^183]: Té neskonalé (svátosti) – hymnus od Tomáše Akvinského.
-
-[^184]: Chléb z nebe dal jsi jim.
-
-[^185]: Mrzutost.
-
-[^186]: Chvalte Hospodina všickni národové; _Žalm 116_.
-
-[^187]: Prádlo.
-
-[^188]: Správně: La causa è santa, tj. svatá věc.
-
-[^189]: Vari z cesty; píseň irského básníka Ch. G. Duffyho.
-
-[^190]: Dobrou noc, slečno. Muž miluje krásnou dívku.
-
-[^191]: Následným účinkem.
-
-[^192]: Panno a matko, dcero syna svého; z Dantovy _Božské komedie_, přel. K. Vrátný.
-
-[^193]: Petr rybář = papež.
-
-[^194]: Aby se poznalo tělesné tajemství našeho pohlaví.
-
-[^195]: Modlete se, bratři, za mě.
-
-[^196]: Kde, jak.
-
-[^197]: Štěpánská píseň.
-
-[^198]: Smrt policajtům!
-
-[^199]: Slintavka.
-
-[^200]: Taková a tak veliká je zkaženost této doby, římští občané, že naše vdané paní mají raději chlípná lechtání kdejakého libyjského polomuže než pořádné moudí a strmé ztopoření římských centuriónů.
-
-[^201]: Ale jistě… tisíceré díky.
-
-[^202]: Obchodník s pláštěnkami.
-
-[^203]: Ploditel, tj. Mulligan.
-
-[^204]: U něho… hrome… vážně.
-
-[^205]: To jsou dvě věci.
-
-[^206]: Těhotná.
-
-[^207]: Plod bez srdce v plodu.
-
-[^208]: Budiž!
-
-[^209]: Mrtvé moře.
-
-[^210]: Porod.
-
-[^211]: Čich.
-
-[^212]: Všechno pomíjející, z Goethova _Fausta_.
-
-[^213]: Nebe.
-
-[^214]: Dojil jsi krávu mrzutost. Teď piješ sladkého mléka jejího vemene. – Z Nietzschovy _Tak pravil Zarathustra_, přel. O. Fischer.
-
-[^215]: Skrze bohyni Partulu a Pertundu, teď je čas pít; Partula byla římská bohyně porodu, Pertunda obcování.
-
-[^216]: Hodnověrnost. (V Irsku dostal napít podle zákona i po zavření hospody každý, kdo hodnověrně prokázal, že přichází ze vzdálenosti 4 mil.)
-
-[^217]: Požehnej vás Všemohoucí Bůh, Otec a Syn.
-
-[^218]: Kupředu, děti!
-
-[^219]: Cca 5,5 km, perská míra vzdálenosti.
-
-[^220]: Matka mě oženila.
-
-[^221]: Všichni se napijeme absintu, čert ať nám vezme zadek.
-
-[^222]: Dobrou noc vespolek.
-
-[^223]: Na vaše (zdraví).
-
-[^224]: Veseliti se budou na ložích svých; _Žalm 149, 5._
-
-[^225]: Aby se naplnilo písmo.
-
-[^226]: Viděl jsem vodu vytékající z chrámu od boku pravého, aleluja.
-
-[^227]: (Trochu vyšším hlasem.) A všichni, na něž voda splynula.
-
-[^228]: (Slavnostně.) Spaseni jsou.
-
-[^229]: Krásná nelítostná paní; báseň J. Keatse (1795–1821).
-
-[^230]: K bohyni, která obveseluje mladost mou.
-
-[^231]: Dobrý večer, slečno Blanko, co je to za ulici?
-
-[^232]: Mabbot Street.
-
-[^233]: Ano, vím, tatínku.
-
-[^234]: Gojská zábava.
-
-[^235]: Jak chví se srdce tvé?
-
-[^236]: Každý má jiný vkus.
-
-[^237]: Dostatečný důkaz.
-
-[^238]: Černá jsem, ale krásná, dcery jeruzalémské; zkomolená _Píseň Šalamounova_.
-
-[^239]: Komu to prospívá?
-
-[^240]: Buď nastotisíckrát vítán.
-
-[^241]: Jak krásný je tvůj král, Izraeli.
-
-[^242]: Motlidba před židovským Dlouhým dnem.
-
-[^243]: Zvěstuji vám velikou radost. Máme kata. (Parafráze slov, jimiž se vyhlašuje nový papež.)
-
-[^244]: Šťastný svazek. (Parafráze na Culpa Felix – Šťastná vina z velikonoční liturgie.)
-
-[^245]: Jdoucí na smrt tě zdraví.
-
-[^246]: Počátek hebrejské abecedy a další hebrejské výrazy.
-
-[^247]: Nevtipný příběh je kočár bez koně.
-
-[^248]: Neporušená panna.
-
-[^249]: Židovký puch.
-
-[^250]: Leopoldovo narození.
-
-[^251]: A nazváno bude jeho jméno Emmanuel.
-
-[^252]: Nebesa vypravují slávu boží_; Žalm 18, 1._
-
-[^253]: Ale, hergot… Mladost radost. Ať se mládí vydovádí.
-
-[^254]: Tak to je.
-
-[^255]: On přichází! Jsem to já! Muž, který se směje! Prvotní člověk!... Pánové a dámy, sázejte!... Sází se!... Už to nejde.
-
-[^256]: Argument k ženě.
-
-[^257]: Živote můj, miluji tě; z Byronovy básně.
-
-[^258]: Zhřešil jsem!
-
-[^259]: Zde v hampejzu, kde rozbili jsme stan; (z Villonovy _Závěti_).
-
-[^260]: Bez okolků.
-
-[^261]: Daruj nám pokoj.
-
-[^262]: Neukojené prahnutí / zpytavá žena / nás všechny zničí; (zkomolený úryvek z Wagnerovy _Valkýry_).
-
-[^263]: A vyvýšeni budou rohové spravedlivého; _Žalm 74, 11_.
-
-[^264]: Dráždivé spodní prádlo. Olala. Ten má frňák.
-
-[^265]: Ať žije upír!
-
-[^266]: Hovnajs!
-
-[^267]: Všichni dopředu! Poklonit se! Všichni na místo!
-
-[^268]: Čtverec! Dva dopředu!... Vyrovnat!
-
-[^269]: Vpřed! Osm! Skrz! Pozdrav! Pohyb rukou! Křížem!
-
-[^270]: Šuplíky! Dámský řetěz! Košík! Zády k sobě!
-
-[^271]: Pekařka! Kroužky! Můstky! Kolotoč! Šneci!
-
-[^272]: Tančete se svými dámami! Vyměňte si dámy! Podejte své dámě kytičku! Poděkujte!
-
-[^273]: Ale ne, kdepak!... Nebudu sloužit!
-
-[^274]: Ostatně mi do toho nic není.
-
-[^275]: Nemočit.
-
-[^276]: Také v Paříži je to vidět.
-
-[^277]: Ach jé.
-
-[^278]: Božínku!
-
-[^279]: Milý kněže? (název písně J. Banima, 1798–1844).
-
-[^280]: Zemřeme za Irsko!
-
-[^281]: Chvátej loupiti; z _Izaiáše 8, 3_.
-
-[^282]: Pozpátku „Alleluja: nebo kraloval Pán Bůh náš všemohoucí“; praktika při černé mši.
-
-[^283]: Odejde Jidáš. A odšed osidlem se oběsil; (_Mat. 27, 5_).
-
-[^284]: Věrný Achates; nerozlučný druh Aenea ve Vergilově _Aeneidě_.
-
-[^285]: Po cestě.
-
-[^286]: Polosvět.
-
-[^287]: Kolegové, kumpáni.
-
-[^288]: Nejsem neznalá útrap a nešťastným pomáhám ráda; parafráze z Vergiliovy _Aeneidy_, přel. O. Vaňorný.
-
-[^289]: Vzácný pták (tj. bílá vrána).
-
-[^290]: Vypravěč, povídálek.
-
-[^291]: Chladnokrevnost.
-
-[^292]: Indiánská salaš.
-
-[^293]: Pohlednice.
-
-[^294]: Rozhled.
-
-[^295]: Dýka.
-
-[^296]: Rozhřešení.
-
-[^297]: Mezi námi.
-
-[^298]: Rázem.
-
-[^299]: Hlava rodiny.
-
-[^300]: Porušnost o sobě (v zásadě), porušnost případkově (náhodná); _Summa_ Tomáše Akvinského.
-
-[^301]: Ve všem všudy.
-
-[^302]: Nezbytná podmínka.
-
-[^303]: Tlumeně… důvěrníkovi.
-
-[^304]: Roberto okrádá svou běhnu.
-
-[^305]: Sv. Tomáš Buldok.
-
-[^306]: Podle těla.
-
-[^307]: Vlast je tam, kde je dobrý život.
-
-[^308]: Prozatím (propter tempore).
-
-[^309]: Farnost sv. Patrika; tj. ironicky irská církev.
-
-[^310]: Tělnatost.
-
-[^311]: Sklon.
-
-[^312]: Léta jsem promarnil hrou.
-
-[^313]: Vůdce a hrabě; členění dvojsborových vokálních skladeb.
-
-[^314]: O lstivosti Sirén / pějí básníci.
-
-[^315]: Dýchánky.
-
-[^316]: Celý ten rod.
-
-[^317]: Zkomolený závěr písně od J. Jeepa (1582–1644) o ztroskotání lodi.
-
-[^318]: Báseň _Naděje_ od rakouského básníka Naftali Herze Imbera (1856–1909).
-
-[^319]: Potichu.
-
-[^320]: Poutnický nápěv: Když vycházel Izrael z Egypta a dům Jakubův z národu cizího.
-
-[^321]: Venkov ve městě… Tady se člověk uzdraví.
-
-[^322]: Vždy ochotný.
-
-[^323]: Světlost a dokonalost.
-
-[^324]: Radost ze Zákona; židovský svátek.
-
-[^325]: Píseň Šalomounova.
-
-[^326]: Pisoár.
-
-[^327]: Jeho Veličenstvo.
-
-[^328]: Těhotná.
-
-[^329]: Ach, krásný touraineský kraji.
-
-[^330]: Zkomolenina z „haruspex“, tj. vykladač z vnitřností obětin ve starém Římě.
-
-[^331]: Paroháč.
-
-[^332]: Jak se máte? Děkuji, dobře, a vy?
-
-[^333]: Služka.
-
-[^334]: Dvě sázená vejce, pane.
-
-[^335]: Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.
-
-[^336]: Hospoda.
-
 
 <section>
 
 Otylý, statný Tur Mulligan se vynořil ze schodů, nesl misku s mydlinami a na ní křížem přes sebe měl ležet zrcátko a břitvu. Jitřním vánkem se mu vzadu vzdouval nepřepásaný župan. Pozdvihl misku a zanotoval:
 
-_– Introibo ad altare Dei.[_\[1\]_](../Text/odysseus_012.html#_ftn1)_
+_– Introibo ad altare Dei.[^1]_
 
 Postál, zamžoural do tmavého točitého schodiště a chraplavě křikl:
 
@@ -750,7 +78,7 @@ Přistoupil k obrubni, sáhl Štěpánovi do horní kapsy a řekl:
 
 Znovu vystoupil na obrubeň a zahleděl se na Dublinský záliv; na hlavě mu zlehka povívaly plavé, světle dubové vlasy.
 
-– Panebože, nic naplat, moře je, jak říká Algouš[^3], šedivá něžná matka. Soplivě zelené moře. Šourkostažné moře. _Epi oinopa ponton._[_\[4\]_](../Text/odysseus_012.html#_ftn4) Ach, ti Řekové, Dedale. Však já tě o nich poučím. Přečteš si je v originále. _Thalatta! Thalatta!_[_\[5\]_](../Text/odysseus_012.html#_ftn5) Naše velká něžná matka. Pojď a viz.
+– Panebože, nic naplat, moře je, jak říká Algouš[^3], šedivá něžná matka. Soplivě zelené moře. Šourkostažné moře. _Epi oinopa ponton._[^4] Ach, ti Řekové, Dedale. Však já tě o nich poučím. Přečteš si je v originále. _Thalatta! Thalatta!_[^5] Naše velká něžná matka. Pojď a viz.
 
 Štěpán vstal a přistoupil k předprsni. Opřen o ni hleděl na vodstvo a na poštovní parník, vyjíždějící z ústí kingstownského přístavu.
 
@@ -914,7 +242,7 @@ Spolu se svými hračkami uklizená do paměti přírody. V tom zahloubání na�
 
 Mlčky ve snu k němu po smrti přišla, celá zchřadlá v hnědém odstávajícím rubáši, páchla voskem a palisandrem, a jak se nad ním s němými tajnými slovy shýbla, dech jí čpěl pokropeným popelem.
 
-Skelným zrakem ze záhrobí mi krotila a krušila duši. Upřeným jen na mě. Hromnička ozařuje její smrtelný zápas. Hromničné světlo na zmučeném obličeji. Chraplavý hlas jí hrůzou sípá, zatímco všichni klečí a modlí se. Upřeným pohledem mě sráží na kolena. _Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus excipiat._[_\[8\]_](../Text/odysseus_012.html#_ftn8)
+Skelným zrakem ze záhrobí mi krotila a krušila duši. Upřeným jen na mě. Hromnička ozařuje její smrtelný zápas. Hromničné světlo na zmučeném obličeji. Chraplavý hlas jí hrůzou sípá, zatímco všichni klečí a modlí se. Upřeným pohledem mě sráží na kolena. _Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus excipiat._[^8]
 
 Gúle! Žroutko mrtvol!
 
@@ -1327,9 +655,9 @@ Haines si sundal ze rtu tabáková vlákna a teprve potom promluvil.
 
 – Docela chápu, řekl klidně. Ir ani jinak smýšlet nemůže, bodejť. My v Anglii máme dojem, že jsme vám trochu ublížili. Za to může, zdá se, historie.
 
-Vítězoslávou spěžových zvonů zahlaholily nad Štěpánovou pamětí pyšné a mocné hodnosti: _et unam sanctam catholicam et apostolicam ecclesiam:_[_\[10\]_](../Text/odysseus_012.html#_ftn10) jako v jeho vlastních vzácných úvahách ponenáhlý růst i proměna ritu i dogmatu, hvězdná alchymie. Apoštolské vyznání ve mši papeže Marcela, hlasy splývají a každý sám se rozléhá na potvrzení víry: za jejich prozpěvováním strážný anděl církve bojující odzbrojuje a potírá arcikacíře. V hordách před ním prchají heretici s mitrami nakřivo. Photius a celá čeládka rouhačů, k nimž patří Mulligan a Arius, celý život bojující proti soupodstatnosti Otce a Syna, a Valentin, který pohrdlivě odmítal pozemské tělo Kristovo, a subtilní africký arcikacíř Sabellius, který tvrdil, že Otec je sám sobě Synem. Rouhavá slova, která Mulligan před chvílí pronesl před tím cizákem. Jalové rouhání. Věru nicota čeká na všechny, kdo sejí vítr: zastraší je, rozpráší a zdeptají chrabří andělé církve, Michaelovy voje, které ji ve chvíli bojování svými oštěpy a štíty ubrání.
+Vítězoslávou spěžových zvonů zahlaholily nad Štěpánovou pamětí pyšné a mocné hodnosti: _et unam sanctam catholicam et apostolicam ecclesiam:_[^10] jako v jeho vlastních vzácných úvahách ponenáhlý růst i proměna ritu i dogmatu, hvězdná alchymie. Apoštolské vyznání ve mši papeže Marcela, hlasy splývají a každý sám se rozléhá na potvrzení víry: za jejich prozpěvováním strážný anděl církve bojující odzbrojuje a potírá arcikacíře. V hordách před ním prchají heretici s mitrami nakřivo. Photius a celá čeládka rouhačů, k nimž patří Mulligan a Arius, celý život bojující proti soupodstatnosti Otce a Syna, a Valentin, který pohrdlivě odmítal pozemské tělo Kristovo, a subtilní africký arcikacíř Sabellius, který tvrdil, že Otec je sám sobě Synem. Rouhavá slova, která Mulligan před chvílí pronesl před tím cizákem. Jalové rouhání. Věru nicota čeká na všechny, kdo sejí vítr: zastraší je, rozpráší a zdeptají chrabří andělé církve, Michaelovy voje, které ji ve chvíli bojování svými oštěpy a štíty ubrání.
 
-Výborně, výborně. Potlesk nebere konce. _Zut! Nom de Dieu!_[_\[11\]_](../Text/odysseus_012.html#_ftn11)
+Výborně, výborně. Potlesk nebere konce. _Zut! Nom de Dieu!_[^11]
 
 – Já jsem ovšem Brit, ozval se Haines, a smýšlím jako Brit. Na druhé straně zas nechci, aby má vlast padla do spárů německým židům. To je nyní, bohužel, naše národní problematika.
 
@@ -1588,7 +916,7 @@ Zakukleny do číslic s roztodivnými kvadrátky a barety, po celé stránce se�
 
 – Sím ano.
 
-Dlouhými nejistými tahy opisoval Sargent údaje. Stále číhaje na slovo přispění, pečlivě stavěl rozviklané znaky, pod mdlou pletí mu přitom prosvítal nádech studu. _Amor matris:_[_\[12\]_](../Text/odysseus_012.html#_ftn12) subjektivní a objektivní genitiv. Krmila ho svou řídkou krví a syrovátčitým mlékem a před zraky jiných schovávala jeho povijan.
+Dlouhými nejistými tahy opisoval Sargent údaje. Stále číhaje na slovo přispění, pečlivě stavěl rozviklané znaky, pod mdlou pletí mu přitom prosvítal nádech studu. _Amor matris:_[^12] subjektivní a objektivní genitiv. Krmila ho svou řídkou krví a syrovátčitým mlékem a před zraky jiných schovávala jeho povijan.
 
 Byl jsem jako on, zrovna tak svisloramenný, zrovna takový nemotora. Dětství se krčí vedle mě. Je tak vzdálené, že ani jedinkrát nemohu o ně rukou zavadit. Mé dětství je vzdálené a jeho zas tajné jako náš zrak. Němá, strnulá tajemství nám vězí v šerých palácích srdce: tajemství sytá jejich tyranství: tyranů toužících po sesazení.
 
@@ -1700,7 +1028,7 @@ Slavná, zbožná a nehynoucí paměť. Démantová lóže v nádherném Armaghu
 
 – Bohužel, řekl Štěpán.
 
-– _Per vias rectas,_[_\[13\]_](../Text/odysseus_012.html#_ftn13) ozval se zarytě pan Deasy. Hlasoval pro ni a obul si jezdecké boty a až z downských Ards jel na koni do Dublinu a tam pro ni hlasoval.
+– _Per vias rectas,_[^13] ozval se zarytě pan Deasy. Hlasoval pro ni a obul si jezdecké boty a až z downských Ards jel na koni do Dublinu a tam pro ni hlasoval.
 
 _Hop a skok, hop a skok,  
 do Dublinu samý kámen._
@@ -1715,7 +1043,7 @@ Odešel k psacímu stolu pod oknem, dvakrát si pošoupl židli a přeříkal p�
 
 Zpod kosmatého obočí zíral na rukopis, který měl ležet vedle sebe, brumlal si a zvolna mačkal tuhé klapky na klávesnici, chvílemi povytáhl váleček a s funěním vymazal překlep.
 
-Jak se před princem sluší, Štěpán se tichounce posadil. Poddajné hlavy zdviženy, kolem dokola po stěnách vzdávali na obrázcích hold dávno zhynulí koně: Truc lorda Hastingse, Lovčí westminsterského vévody, Cejlon vévody z Beaufortu, _prix de Paris_[_\[14\]_](../Text/odysseus_012.html#_ftn14)_,_ 1866. Seděli na nich skřítkovití jezdci, číhající na znamení. Viděl je, jak o závod letí a hájí královy barvy, a hulákal s dávno zhynulými hulákajícími davy.
+Jak se před princem sluší, Štěpán se tichounce posadil. Poddajné hlavy zdviženy, kolem dokola po stěnách vzdávali na obrázcích hold dávno zhynulí koně: Truc lorda Hastingse, Lovčí westminsterského vévody, Cejlon vévody z Beaufortu, _prix de Paris_[^14]_,_ 1866. Seděli na nich skřítkovití jezdci, číhající na znamení. Viděl je, jak o závod letí a hájí královy barvy, a hulákal s dávno zhynulými hulákajícími davy.
 
 – Tečka, poručil klapkám pan Deasy. Ale bezodkladné ventilování této významné otázky…
 
@@ -1851,9 +1179,9 @@ Přes listnaté mřížoví mu na rozšafná záda házelo slunce cetky, rejdiv�
 
 * * *
 
-Nevyhnutelná modalita viditelného, když ne víc, aspoň to, myšleno mýma očima. Signatury všech věcí, které tady mám přečíst, potěr a chaluhy, nadcházející příliv, tamta rezavá bota. Meze průzračna. Soplivě zelené, modrostříbřité, rezavé: barevné znaky. Ale hned dodává: v tělech. Vnímal tedy těla, ještě než dostala barvu. Jak? Asi tak, že do nich vrážel kebulí. Pomalu. Byl to plešatec a milionář, _maestro di color che sanno._[_\[15\]_](../Text/odysseus_012.html#_ftn15) Mez průzračna v. Proč v? Průzračno, neprůzračno. Když pět prstů prostrčíš, je to brána, když nejsou to dveře. Zavři oči a viz.
+Nevyhnutelná modalita viditelného, když ne víc, aspoň to, myšleno mýma očima. Signatury všech věcí, které tady mám přečíst, potěr a chaluhy, nadcházející příliv, tamta rezavá bota. Meze průzračna. Soplivě zelené, modrostříbřité, rezavé: barevné znaky. Ale hned dodává: v tělech. Vnímal tedy těla, ještě než dostala barvu. Jak? Asi tak, že do nich vrážel kebulí. Pomalu. Byl to plešatec a milionář, _maestro di color che sanno._[^15] Mez průzračna v. Proč v? Průzračno, neprůzračno. Když pět prstů prostrčíš, je to brána, když nejsou to dveře. Zavři oči a viz.
 
-Štěpán zavřel oči a poslouchal, jak botama drtí chrupavé chaluhy a škeble. Nic naplat, kráčíš přes ně. Kráčím, krok co krok. Kratičký časový prostor v kratičkém prostorném čase. Pět, šest: _nacheinander_[_\[16\]_](../Text/odysseus_012.html#_ftn16)_._ Správně: toť nevyhnutelná modalita slyšitelného. Otevř oči! Ne. Ježíšikriste. Co kdybych spadl se skaliska, jež nad mořem vypíná se, nevyhnutelně, přepadl tím _nebeneinander_[_\[17\]_](../Text/odysseus_012.html#_ftn17)_._ Potmě mi to docela jde. Po boku mi visí jasanový meč. Ťukej s ním: tak se to dělá. Nohy mu zakončují má chodidla v jeho botách, _nebeneinander._ Důkladné: dřevěnou palicí je stloukl _Los demiurgos._ To kráčím po Sandymountské pláži do věčnosti? Křup, křáp, křís, křís. Plané mořské mince. Kantor Deasy je má v malíčku.
+Štěpán zavřel oči a poslouchal, jak botama drtí chrupavé chaluhy a škeble. Nic naplat, kráčíš přes ně. Kráčím, krok co krok. Kratičký časový prostor v kratičkém prostorném čase. Pět, šest: _nacheinander_[^16]_._ Správně: toť nevyhnutelná modalita slyšitelného. Otevř oči! Ne. Ježíšikriste. Co kdybych spadl se skaliska, jež nad mořem vypíná se, nevyhnutelně, přepadl tím _nebeneinander_[^17]_._ Potmě mi to docela jde. Po boku mi visí jasanový meč. Ťukej s ním: tak se to dělá. Nohy mu zakončují má chodidla v jeho botách, _nebeneinander._ Důkladné: dřevěnou palicí je stloukl _Los demiurgos._ To kráčím po Sandymountské pláži do věčnosti? Křup, křáp, křís, křís. Plané mořské mince. Kantor Deasy je má v malíčku.
 
 _Pojď do Sandymountu, pojď,  
 Madlo, kobylko._
@@ -1868,7 +1196,7 @@ Rozvážně slézají po schůdkách s Leahyho terasy: fraucimor: dále pak po s
 
 Choť a družka Adama Kadmona: Heva, nahá Eva. Pupek neměla. Pohleď. Břicho bez poskvrnky, naduřelé, štít z napjatého pergamenu, ba ne, bělostný stoh pšenice, plodivý i nesmrtelný, čnějící od věků do věků. Lůno hříchu.
 
-V temnotě hříchu i já prošel lůnem, stvořený, ne zplozený. Jimi, mužem stejného hlasu a stejného zraku jako já a zásvětní ženou popelavého dechu. Objali se a zas odloučili, učinili po vůli kuplíři. Od věčnosti mě On chtěl a teď mě nemůže navždy odechtít. _Lex aeterna_[_\[18\]_](../Text/odysseus_012.html#_ftn18) trvá nad ním. Je to tedy ona božská podstata, v níž jsou soupodstatní Otec se Synem? Kde je chudák Arius, že z toho neodvozuje závěry? Celý život potíral soutranscendvelebžidobumpodstatnost. Neblahý arcikacíř. Vydechl naposled na řeckém záchodě: euthanasie. Na hlavě mitru posázenou korálky a v ruce berlu, usazený na trůně, vdovec po ovdovělé stolici, omoforion[^19] ztopořené, zadnici celou pokálenou.
+V temnotě hříchu i já prošel lůnem, stvořený, ne zplozený. Jimi, mužem stejného hlasu a stejného zraku jako já a zásvětní ženou popelavého dechu. Objali se a zas odloučili, učinili po vůli kuplíři. Od věčnosti mě On chtěl a teď mě nemůže navždy odechtít. _Lex aeterna_[^18] trvá nad ním. Je to tedy ona božská podstata, v níž jsou soupodstatní Otec se Synem? Kde je chudák Arius, že z toho neodvozuje závěry? Celý život potíral soutranscendvelebžidobumpodstatnost. Neblahý arcikacíř. Vydechl naposled na řeckém záchodě: euthanasie. Na hlavě mitru posázenou korálky a v ruce berlu, usazený na trůně, vdovec po ovdovělé stolici, omoforion[^19] ztopořené, zadnici celou pokálenou.
 
 Vánky se honily kolem něho, štiplavé, doráživé vánky. Už jdou, vlny. Udidlo hryzající, jarým větrem krocení bělohřívci, oři Mananaanovi.
 
@@ -1890,7 +1218,7 @@ Podložený polštáři a přikrytý dekami přes pahorek kolen napřahuje k ně
 
 – Pěkně vítám, synovče.
 
-Odkládá pultík, na němž sestavuje pro soudce Gofa a soudce Shaplanda Tandyho soupis výdajů, vyplňuje vyrovnávací a protokolární formulář a příkaz _Duces Tecum_[_\[20\]_](../Text/odysseus_012.html#_ftn20)_._ Nad lysou hlavou rám z bažinného dubu: Wildeovo _Requiescat_[_\[21\]_](../Text/odysseus_012.html#_ftn21)_._ Dunivě hvízdl a už je tu zase Walter.
+Odkládá pultík, na němž sestavuje pro soudce Gofa a soudce Shaplanda Tandyho soupis výdajů, vyplňuje vyrovnávací a protokolární formulář a příkaz _Duces Tecum_[^20]_._ Nad lysou hlavou rám z bažinného dubu: Wildeovo _Requiescat_[^21]_._ Dunivě hvízdl a už je tu zase Walter.
 
 – Ano prosím.
 
@@ -1916,17 +1244,17 @@ Walter marně šilhá po židli.
 
 _All’erta![^22]_
 
-Zahučí několik taktů z Ferrandovy _arie di sortita_[_\[23\]_](../Text/odysseus_012.html#_ftn23)_._ Nejúžasnější kousek z celé opery. Poslechni si.
+Zahučí několik taktů z Ferrandovy _arie di sortita_[^23]_._ Nejúžasnější kousek z celé opery. Poslechni si.
 
 Znovu vyloudí jemně odstíněný, prudce vyrážený melodický hvizd a pěstmi si přitom bubnuje na vycpaná kolena.
 
 Toť líbeznější vánek.
 
-Samé upadlé rodiny, moje, jeho a všechny. Clongoweským panáčkům jsi vyprávěl, že máš strýčka soudce a strýčka aktivního generála. Vyjdi z nich, Štěpáne. Kus krásy v nich není. Ani v stojatém kalu Marshovy knihovny, kde jsi čítal vybledlá proroctví opata Joachima. Pro koho? Pro stohlavou holotu katedrálního okrsku. Nenávistník lidského pokolení utekl před nimi do hvozdu šílenství, pod měsícem hřívu rozevlátou, oční bulvy jako hvězdy. Hvajninim s koňskými nozdrami. Obdélný koňský obličej. Temple, Tur Mulligan, Foxy Campbell. Vpadlé čelisti. Otec opat, zuřivý děkan, nad jakoupak urážkou jim vzplanul mozek? Paf! _Descende, calve, ut ne nimium decalveris._[_\[24\]_](../Text/odysseus_012.html#_ftn24) Věneček šedin na ohrožené hlavě, hle, jak se s baziliščím pohledem belhá na dolní stupínek (_descende),_ v ruce svírá monstranci. Slez, plešatče! Chór, přisluhující u rohů oltáře, vrací hrozbu s ozvěnou, huhňavou latinu v albě se motajících flanďáků, tonzurovaných a pomazaných a vykleštěných, tučných tukem pšenice nejvýbornější.
+Samé upadlé rodiny, moje, jeho a všechny. Clongoweským panáčkům jsi vyprávěl, že máš strýčka soudce a strýčka aktivního generála. Vyjdi z nich, Štěpáne. Kus krásy v nich není. Ani v stojatém kalu Marshovy knihovny, kde jsi čítal vybledlá proroctví opata Joachima. Pro koho? Pro stohlavou holotu katedrálního okrsku. Nenávistník lidského pokolení utekl před nimi do hvozdu šílenství, pod měsícem hřívu rozevlátou, oční bulvy jako hvězdy. Hvajninim s koňskými nozdrami. Obdélný koňský obličej. Temple, Tur Mulligan, Foxy Campbell. Vpadlé čelisti. Otec opat, zuřivý děkan, nad jakoupak urážkou jim vzplanul mozek? Paf! _Descende, calve, ut ne nimium decalveris._[^24] Věneček šedin na ohrožené hlavě, hle, jak se s baziliščím pohledem belhá na dolní stupínek (_descende),_ v ruce svírá monstranci. Slez, plešatče! Chór, přisluhující u rohů oltáře, vrací hrozbu s ozvěnou, huhňavou latinu v albě se motajících flanďáků, tonzurovaných a pomazaných a vykleštěných, tučných tukem pšenice nejvýbornější.
 
 A zrovna v tu chvíli ji snad za rohem jeden kněz pozdvihuje! Cililink! A o dvě ulice dál ji zas jiný kněz zamyká do ciboria. Cilink. V postranní kapli ji zas další přijímá do svých lící. Cililink! Dole, nahoře, vpředu, vzadu. Dan Occam, ten nepřemožitelný učitel, o tom přemýšlel. Skřítek hypostaze mu jednoho mlžného anglického rána pošimral mozek. Jak sundal hostii a poklekl, zaslechl, jak se s jeho prvním zazvoněním zdvojuje první zazvonění v příčné lodi (to on ji pozdvihuje), a jak povstal, zaslechl (teď ji pozdvihuji já), jak obojí jejich zazvonění (on pokleká) cinká dvojhlasně.
 
-Bratranče Štěpáne, světec z tebe nikdy nebude. Ostrov světců. Býval jsi náramně nábožný, viď! Modlil ses k Panně Marii, aby ti nezčervenal nos. V Serpentinové aleji ses modlil k čertu, aby si ta boubelatá vdova před tebou na mokré dlažbě ještě víc povytáhla šaty. _O_ _si certo!_[_\[25\]_](../Text/odysseus_012.html#_ftn25) Duši zaprodej, jen ji zaprodej za strakaté hadry, našpendlené na buclaté ženštině. Pověz mi toho víc, ještě víc! Tramvaj na vršku Howthu, sám a sám štkáš do deště: _nahé ženy!_ Copak tomu říkáš?
+Bratranče Štěpáne, světec z tebe nikdy nebude. Ostrov světců. Býval jsi náramně nábožný, viď! Modlil ses k Panně Marii, aby ti nezčervenal nos. V Serpentinové aleji ses modlil k čertu, aby si ta boubelatá vdova před tebou na mokré dlažbě ještě víc povytáhla šaty. _O_ _si certo!_[^25] Duši zaprodej, jen ji zaprodej za strakaté hadry, našpendlené na buclaté ženštině. Pověz mi toho víc, ještě víc! Tramvaj na vršku Howthu, sám a sám štkáš do deště: _nahé ženy!_ Copak tomu říkáš?
 
 Co bych tomu říkal? Nač byly vynalezeny?
 
@@ -1936,25 +1264,25 @@ Sypký písek pod nohama byl pryč. Už zas šlapal v botách po zvlhlém, prask
 
 Zůstal stát. Minul jsem cestu k tetě Sáře. Zajdu tam? Asi ne. Nikde nikdo. Zamířil k severovýchodu a po pevnějším písku se vydal k Holubníku.
 
-– _Qui vous a mis dans cette fichue position?_[_\[27\]_](../Text/odysseus_012.html#_ftn27)
+– _Qui vous a mis dans cette fichue position?_[^27]
 
-– _C’est le pigeon, Joseph._[_\[28\]_](../Text/odysseus_012.html#_ftn28)
+– _C’est le pigeon, Joseph._[^28]
 
-Patrice, užívající dovolené, lábal se mnou v MacMahonově baru teplé mléko. Syn jednoho z tažných hus, pařížského Kevina Egana. Otec je pták, buclatá tvářička, růžovým jazýčkem lábal sladké _lait chaud_[_\[29\]_](../Text/odysseus_012.html#_ftn29)_._ Lábej, _lapin_[_\[30\]_](../Text/odysseus_012.html#_ftn30)_._ Těší se, že vyhraje v _gros lots_[_\[31\]_](../Text/odysseus_012.html#_ftn31)_._ O povaze žen čítal v Micheletovi. Musí mi však poslat _La_ _vie de Jésus_[_\[32\]_](../Text/odysseus_012.html#_ftn32) od M. Léo Taxila. Půjčil ji jednomu známému.
+Patrice, užívající dovolené, lábal se mnou v MacMahonově baru teplé mléko. Syn jednoho z tažných hus, pařížského Kevina Egana. Otec je pták, buclatá tvářička, růžovým jazýčkem lábal sladké _lait chaud_[^29]_._ Lábej, _lapin_[^30]_._ Těší se, že vyhraje v _gros lots_[^31]_._ O povaze žen čítal v Micheletovi. Musí mi však poslat _La_ _vie de Jésus_[^32] od M. Léo Taxila. Půjčil ji jednomu známému.
 
 _C’est tordant, vous savez. Moi je suis socialiste. Je ne crois pas en l’existence de Dieu. Faut pas le dire à mon père.[^33]_
 
-– _Il croit?_[_\[34\]_](../Text/odysseus_012.html#_ftn34)
+– _Il croit?_[^34]
 
-– _Mon père, oui._[_\[35\]_](../Text/odysseus_012.html#_ftn35)
+– _Mon père, oui._[^35]
 
-_Schluss._[_\[36\]_](../Text/odysseus_012.html#_ftn36) Lábe.
+_Schluss._[^36] Lábe.
 
-Můj klobouk z Latinské čtvrti. Přisámbůh, osobnost se přece musí markýrovat. Rád bych hnědofialové rukavice. To jsi studoval, viď. A co, přisám, ten druhý čert? Pécéen. P. C. N., rozuměj: _physiques, chimiques et naturelles_[_\[37\]_](../Text/odysseus_012.html#_ftn37)_._ To jo. Jedl jsi za groš _mou en civet_[_\[38\]_](../Text/odysseus_012.html#_ftn38), egyptské hrnce, odstrkován říhavými drožkáři. Jen pověz jakoby nic: když jsem byl v Paříži, _boul’Mich’_[_\[39\]_](../Text/odysseus_012.html#_ftn39), míval jsem. Ano, míval jsem u sebe proštípnuté lístky, abych prokázal alibi, kdyby mě snad někde zatkli pro vraždu. Soud. Večer 17. února 1904 byl zatčený spatřen dvěma svědky. Spáchal to jiný kumpán: jiný já. Klobouk, vázanka, svrchník, nos. _Lui, c’est moi._[_\[40\]_](../Text/odysseus_012.html#_ftn40) Pěkně jsi vyváděl, jak se zdá.
+Můj klobouk z Latinské čtvrti. Přisámbůh, osobnost se přece musí markýrovat. Rád bych hnědofialové rukavice. To jsi studoval, viď. A co, přisám, ten druhý čert? Pécéen. P. C. N., rozuměj: _physiques, chimiques et naturelles_[^37]_._ To jo. Jedl jsi za groš _mou en civet_[^38], egyptské hrnce, odstrkován říhavými drožkáři. Jen pověz jakoby nic: když jsem byl v Paříži, _boul’Mich’_[^39], míval jsem. Ano, míval jsem u sebe proštípnuté lístky, abych prokázal alibi, kdyby mě snad někde zatkli pro vraždu. Soud. Večer 17. února 1904 byl zatčený spatřen dvěma svědky. Spáchal to jiný kumpán: jiný já. Klobouk, vázanka, svrchník, nos. _Lui, c’est moi._[^40] Pěkně jsi vyváděl, jak se zdá.
 
-Pyšným krokem. Jako kdo ses snažil vykračovat? Už si nevzpomínám: vyděděnec. V ruce matčin peněžní poukaz, osm šilinků, s bouchnutím ti vrátný před nosem přibouchl dveře od pošty. Hladem tě bolely zuby. _Encore deux minutes._[_\[41\]_](../Text/odysseus_012.html#_ftn41) Koukněte, hodiny. Musím vyzvednout. _Fermé._[_\[42\]_](../Text/odysseus_012.html#_ftn42) Pacholku! Z brokovnice ho, bác, rozstřílet na cucky, až se cáry z něho mosazné knoflíky rozstříknou po stěnách. Abrakadabra, cáry zas na své místo. Neuhodil jsem vás? Nic se nestalo. Ruku na to. Přece víte, oč mi jde. Ale nic se nestalo. Podejme si ruce. Ale ne, vůbec nic se nestalo.
+Pyšným krokem. Jako kdo ses snažil vykračovat? Už si nevzpomínám: vyděděnec. V ruce matčin peněžní poukaz, osm šilinků, s bouchnutím ti vrátný před nosem přibouchl dveře od pošty. Hladem tě bolely zuby. _Encore deux minutes._[^41] Koukněte, hodiny. Musím vyzvednout. _Fermé._[^42] Pacholku! Z brokovnice ho, bác, rozstřílet na cucky, až se cáry z něho mosazné knoflíky rozstříknou po stěnách. Abrakadabra, cáry zas na své místo. Neuhodil jsem vás? Nic se nestalo. Ruku na to. Přece víte, oč mi jde. Ale nic se nestalo. Podejme si ruce. Ale ne, vůbec nic se nestalo.
 
-Chystal ses konat divy, viď. Po nezkrotném Kolumbanovi chtěl jsi být v Evropě misionářem. Na nebi Fiakr a Scotus na svých trestných stoličkách, bryndali ze svých pint a po latinsku se řehtali: _Euge! Euge!_[_\[43\]_](../Text/odysseus_012.html#_ftn43) Na oko jsi lámal angličtinu, když jsi po přístavní hrázi vlekl, nosič tři pence, kufr. _Comment?_[_\[44\]_](../Text/odysseus_012.html#_ftn44) Bohatou kořist sis přinesl: _Le Tutu_[_\[45\]_](../Text/odysseus_012.html#_ftn45)_,_ pět odrbaných čísel _Pantalon Blanc et Culotte Rouge_[_\[46\]_](../Text/odysseus_012.html#_ftn46)_,_ modrý francouzský telegram, zvláštnost, která stojí za podívanou:
+Chystal ses konat divy, viď. Po nezkrotném Kolumbanovi chtěl jsi být v Evropě misionářem. Na nebi Fiakr a Scotus na svých trestných stoličkách, bryndali ze svých pint a po latinsku se řehtali: _Euge! Euge!_[^43] Na oko jsi lámal angličtinu, když jsi po přístavní hrázi vlekl, nosič tři pence, kufr. _Comment?_[^44] Bohatou kořist sis přinesl: _Le Tutu_[^45]_,_ pět odrbaných čísel _Pantalon Blanc et Culotte Rouge_[^46]_,_ modrý francouzský telegram, zvláštnost, která stojí za podívanou:
 
 – Matka umírá přijeď domů otec.
 
@@ -1967,13 +1295,13 @@ střeží dobré mravy._
 
 Znenadání rázoval pyšným rytmem přes písečné rýhy kolem balvanů jižní zdi. Pyšně na ně zíral, na ty nakupené kamenné mamutí lebky. Zlaté světlo na moři, na písku, na balvanech. Je tu slunce, tenounké stromy, citrónové domy.
 
-Paříž se neomaleně probouzí, syrový rozbřesk na citrónových ulicích. Zavlhlý říz rohlíků, rosničkový absint, její kadidlo jitřní, laskají povětří. Belluomo vstává z lůžka ženy ženina milence, domovnice zachumlaná v šátku šuká, v rukou misku s kyselinou octovou. U Rodota si Yvonne a Madelaine obnovují pocuchané vnady, zlatými zuby drtí celé _chaussons_[_\[47\]_](../Text/odysseus_012.html#_ftn47) pečiva, _pus de flan_ _breton_[_\[48\]_](../Text/odysseus_012.html#_ftn48) jim žlutí ústa. Kolem se míhají obličeje Pařížanů, jejich ukojených ukojitelů, těch kudrnatých konkvistadorů.
+Paříž se neomaleně probouzí, syrový rozbřesk na citrónových ulicích. Zavlhlý říz rohlíků, rosničkový absint, její kadidlo jitřní, laskají povětří. Belluomo vstává z lůžka ženy ženina milence, domovnice zachumlaná v šátku šuká, v rukou misku s kyselinou octovou. U Rodota si Yvonne a Madelaine obnovují pocuchané vnady, zlatými zuby drtí celé _chaussons_[^47] pečiva, _pus de flan_ _breton_[^48] jim žlutí ústa. Kolem se míhají obličeje Pařížanů, jejich ukojených ukojitelů, těch kudrnatých konkvistadorů.
 
-Polední dřímoty. V prstech zamazaných tiskařskou černí si Kevin Egan svinuje třaskavé cigarety; usrkuje přitom zelenou čarodějku a Patrice bílou. Žrouti kolem nás si cpou bachor kořeněnými fazolemi. _Un demi-setier!_[_\[49\]_](../Text/odysseus_012.html#_ftn49) Z vyleštěného kotle tryská kávová pára. Ona mě na jeho pokyn obsluhuje. _Il est irlandais. Hollandais? Non fromage. Deux irlandais, nous, Irlande, vous savez? Ah oui!_[_\[50\]_](../Text/odysseus_012.html#_ftn50) Myslela si, že chceš sýr _hollandais._ Tvoje posnídávka, jestlipak znáš to slovo? Posnídávka. Znal jsem kdysi v Barceloně jednoho ptáčka, divného ptáčka, ten tomu říkal posnídávka. Tak: _slainte!_[_\[51\]_](../Text/odysseus_012.html#_ftn51) Kolem mramorových stolků chumel vínem načpělých dechů a krkavých chřtánů. Nad našimi talířky, pokecanými od šťávy, tkví jeho dech, mezi rty mu čouhá jedovatý zub zelené čarodějky. O Irsku, Dalkassovcích, nadějích, spiknutích, teď zas o Arthuru Griffithovi. Chce mi jako spoluujařmenci nasadit jařmo, naše zločiny naše společná věc. Jsi svého otce syn. Znám ten hlas. Na barchetové, krvavě květované košili se mu nad jeho tajnostmi až třesou španělské třásně. M. Drumont, proslulý novinář, víš, jak ten říkal královně Viktorii? Žlutozubá babizna. _Vieille ogresse_ s _dents jaunes._ Krasavice Maud Gonneová, _La Patrie,_ M. Millevoye. Félix Faure, jestlipak víš, jak umřel? Chlípník. Upsalská froeken[^52], _bonne à tout faire_[_\[53\]_](../Text/odysseus_012.html#_ftn53)_,_ která v lázni masíruje mužskou nahotu. _Moi faire,_ řekla. _Tous les messieurs._ Tohohle _Monsieur_ ne, řekl jsem. Nanejvýš chlípný mrav. Koupel je věc zcela soukromá. Bratrovi, vlastnímu bratrovi bych nedovolil, nanejvýš chlípná věc. Vidím vás, zelené oči. Cítím tě, jedovatý zube. Chlípníci.
+Polední dřímoty. V prstech zamazaných tiskařskou černí si Kevin Egan svinuje třaskavé cigarety; usrkuje přitom zelenou čarodějku a Patrice bílou. Žrouti kolem nás si cpou bachor kořeněnými fazolemi. _Un demi-setier!_[^49] Z vyleštěného kotle tryská kávová pára. Ona mě na jeho pokyn obsluhuje. _Il est irlandais. Hollandais? Non fromage. Deux irlandais, nous, Irlande, vous savez? Ah oui!_[^50] Myslela si, že chceš sýr _hollandais._ Tvoje posnídávka, jestlipak znáš to slovo? Posnídávka. Znal jsem kdysi v Barceloně jednoho ptáčka, divného ptáčka, ten tomu říkal posnídávka. Tak: _slainte!_[^51] Kolem mramorových stolků chumel vínem načpělých dechů a krkavých chřtánů. Nad našimi talířky, pokecanými od šťávy, tkví jeho dech, mezi rty mu čouhá jedovatý zub zelené čarodějky. O Irsku, Dalkassovcích, nadějích, spiknutích, teď zas o Arthuru Griffithovi. Chce mi jako spoluujařmenci nasadit jařmo, naše zločiny naše společná věc. Jsi svého otce syn. Znám ten hlas. Na barchetové, krvavě květované košili se mu nad jeho tajnostmi až třesou španělské třásně. M. Drumont, proslulý novinář, víš, jak ten říkal královně Viktorii? Žlutozubá babizna. _Vieille ogresse_ s _dents jaunes._ Krasavice Maud Gonneová, _La Patrie,_ M. Millevoye. Félix Faure, jestlipak víš, jak umřel? Chlípník. Upsalská froeken[^52], _bonne à tout faire_[^53]_,_ která v lázni masíruje mužskou nahotu. _Moi faire,_ řekla. _Tous les messieurs._ Tohohle _Monsieur_ ne, řekl jsem. Nanejvýš chlípný mrav. Koupel je věc zcela soukromá. Bratrovi, vlastnímu bratrovi bych nedovolil, nanejvýš chlípná věc. Vidím vás, zelené oči. Cítím tě, jedovatý zube. Chlípníci.
 
 Smrtonosně hoří v rukou modrý doutnák, až dohoří. Chytnou od něho roztroušené odřezky tabáku: náš kout se ozáří plamenem a čpavým dýmem. Vyčnělé lícní kosti pod spikleneckým širákem. Jak náčelník upláchl, zaručená verze. Přestrojen za nevěstu, člověče, v závoji s pomerančovými květy odjel po silnici v kočáře do Malahidu. Namouduši. O zmizelých vůdcích, o zrazených, o překotných útěcích. Zakuklení, málem drapnutí, uprchlí, kdepak je jim konec.
 
-Zhrzený milenec. Byl jsem tehdy mladistvý fešák, to mi věř, jednou ti ukážu svou podobenku. Ano, namouduši byl. Milenec, z lásky k ní slídil s plukovníkem Richardem Burkem, předákem septu, pod hradbami Clerkenwellu a přikrčen k zemi viděl, jak je v mlze plamen pomsty vymrštil k nebi. Roztříštěné sklo a zborcené zdivo. V rozverném Paryzu se skrývá on, pařížský Egan, kromě mě ho nikdo nehledá. Odbude si své denní štace, špinavou sazečskou kasu, tři krčmy, krátké noční zdřímnutí v montmartrském pelechu, rue de la Goutted’Or, vyzdobenou dávnými podobami, poďobanými od mušinců. Prostý lásky, vlasti, ženy. Madame si bez svého psance pohodlně žije v rue Gît-le-Coeur s kanárkem a dvěma frajerskými podnájemníky. Broskvové líce, pruhovanou sukni, čiperná jen což. Zhrzený, ale nezoufá. Pověz Patovi, že jsi mě viděl, ano. Jeden čas jsem Patovi sháněl místo. _Mon fils_[_\[54\]_](../Text/odysseus_012.html#_ftn54)_,_ francouzský voják. Naučil jsem ho zpívat. _Kilkennyjští hoši, bujní chlapíci._ Znáš tu starou písničku? Naučil jsem jí Pata. Staré Kilkenny: svatý Kanis, Strongbowův hrad na řece Nore. Takhle se zpívá. Oj, Oj. Za ruku mě jímá Napper Tandy.
+Zhrzený milenec. Byl jsem tehdy mladistvý fešák, to mi věř, jednou ti ukážu svou podobenku. Ano, namouduši byl. Milenec, z lásky k ní slídil s plukovníkem Richardem Burkem, předákem septu, pod hradbami Clerkenwellu a přikrčen k zemi viděl, jak je v mlze plamen pomsty vymrštil k nebi. Roztříštěné sklo a zborcené zdivo. V rozverném Paryzu se skrývá on, pařížský Egan, kromě mě ho nikdo nehledá. Odbude si své denní štace, špinavou sazečskou kasu, tři krčmy, krátké noční zdřímnutí v montmartrském pelechu, rue de la Goutted’Or, vyzdobenou dávnými podobami, poďobanými od mušinců. Prostý lásky, vlasti, ženy. Madame si bez svého psance pohodlně žije v rue Gît-le-Coeur s kanárkem a dvěma frajerskými podnájemníky. Broskvové líce, pruhovanou sukni, čiperná jen což. Zhrzený, ale nezoufá. Pověz Patovi, že jsi mě viděl, ano. Jeden čas jsem Patovi sháněl místo. _Mon fils_[^54]_,_ francouzský voják. Naučil jsem ho zpívat. _Kilkennyjští hoši, bujní chlapíci._ Znáš tu starou písničku? Naučil jsem jí Pata. Staré Kilkenny: svatý Kanis, Strongbowův hrad na řece Nore. Takhle se zpívá. Oj, Oj. Za ruku mě jímá Napper Tandy.
 
 _Oj, hoši, hoši  
 kilkennyjští…_
@@ -1986,13 +1314,13 @@ Obrátil se a obzíral jižní pobřeží a znovu se mu nohy bořily do nových 
 
 Příliv mě stíhá. Vidím odtud, jak se valí. Vrať se tedy tamhle na pláž po poolbegské silnici. Přelezl ostřici a úhořovité chaluhy, usedl na kamenný stolec a jasanovou hůl zastrčil do škvíry.
 
-Na mořské trávě se povaloval nadulý chcíplý pes. Před ním brlení lodi zabředlé do písku. _Un coche ensablé_[_\[55\]_](../Text/odysseus_012.html#_ftn55)_,_ tak nazval Louis Veuillot Gautierovu prózu. Tyto husté písčiny, toť přílivem a větrem navátá řeč. Tamhle zas kamenné kupy mrtvých stavitelů, rejdiště mořských krys. Schovej tam zlato. Zkus to. Trochu ho máš. Písky a kamení. Obtěžkané minulostí. Hračky kavalíra Krobiána. Pozor, ať nějakou neslízneš. Já jsem ten zpropadený obr, co valí zpropadené balvany, kosti, po nichž překračuje vodu. Huhu. Cichám, cichám irskou clověcinu.
+Na mořské trávě se povaloval nadulý chcíplý pes. Před ním brlení lodi zabředlé do písku. _Un coche ensablé_[^55]_,_ tak nazval Louis Veuillot Gautierovu prózu. Tyto husté písčiny, toť přílivem a větrem navátá řeč. Tamhle zas kamenné kupy mrtvých stavitelů, rejdiště mořských krys. Schovej tam zlato. Zkus to. Trochu ho máš. Písky a kamení. Obtěžkané minulostí. Hračky kavalíra Krobiána. Pozor, ať nějakou neslízneš. Já jsem ten zpropadený obr, co valí zpropadené balvany, kosti, po nichž překračuje vodu. Huhu. Cichám, cichám irskou clověcinu.
 
 Na dohled se objevil nějaký bod, přes písčinu se hnal živý pes. Bože, snad se do mě pustí. Šetř jeho svobodu. Nebudeš ničím pánem ani otrokem. Mám hůl. Ani se nehni. Zpovzdáli proti hřebenatému přílivu postavy, dvě. Obě Marie. Šťastně to odklidily do rákosí. Kukuk. Už tě mám. Ne, psa. Běží zpátky za nimi. Kdo?
 
 Najely tady na břeh galéry Lochlanů slídících po kořisti a krvavě rudé přídní zobce se zaryly do cínově zpěněného příboje. Na prsou se jim třpytily bojové sekyry, kdežto Malachjáš nosil na krku zlatý límec. V parném odpoledni ztroskotal na pláži houf vorvaňů a převaloval se na mělčině. A tu se z košatinou hrazeného hladového města přihnali mužíčci v kytlích, moji předkové, s kuchacími noži, stahovali je z kůže, sekali do zeleného, velrybím tukem prosyceného masa. Hlad, mor, řeže. Jejich krev je ve mně, jejich žádostivost se ve mně vzdouvá. Já jsem mezi nimi chodil po zamrzlé Liffey, já přeběhlík, mezi sršícími pryskyřičnými ohni. Já jsem s nikým nemluvil: a nikdo nemluvil se mnou.
 
-Psí štěkot běžel k němu, zarazil se, běžel zpátky. Nepřítelův pes. Stál jsem celý bledý, zamlklý, zaskočený. _Terribilia meditans._[_\[56\]_](../Text/odysseus_012.html#_ftn56) Bleděžlutý kabátec, slouha štěstěny, posmíval se mému strachu. Po tom se pachtíš, po jejich štěkavém potlesku? Nápadníci: prožít to, co oni. Bruceův bratr, hedvábný rytíř Thomas Fitzgerald, jednodenní div Perkin Warbeck, Yorkův nepravý bastard, v krátkých slonově růžovobílých kalhotách, a korunovaný kuchtík Lambert Simnel, za nímž se táhl houf kramářů a markytánů. Samí královští synové. Ráj nápadníků tehdy a nyní. On zachránil tonoucí a ty se třeseš před hafálkovým štěkotem. Jenže kavalíři, co se v Or san Michele posmívali Guidovi, byli ve svém domě. V domě… Nestojíme o tvé středověké hlubokopitomosti. Udělal bys to, co on? Poblíž by čekal člun, záchranný člun. _Natürlich_[_\[57\]_](../Text/odysseus_012.html#_ftn57)_,_ schválně kvůli tobě. Udělal bys to, nebo ne? Ten, co před devíti dny utonul za Maiden’s Rock. Čekají na něho. Pravdu, ven s ní. Rád bych. Zkusil bych to. Nejsem dobrý plavec. Voda studeně hebká. Když jsem do ní v clongoweském umyvadle ponořil obličej. Nevidím. Kdo stojí za mnou? Honem, honem – ven! Vidíš, jak se sem ze všech stran honem valí příliv a jak honem zanáší nízko položené písčiny, perleťově kakaové. Kdybych tak cítil půdu pod nohama. Chtěl bych, aby jeho život stále patřil jemu a můj mně. Tonoucí. Z hrůzy jeho smrti ke mně úpí jeho lidský zrak. Já… Spolu s ním ke dnu… Nedokázal jsem ji zachránit. Vodstvo: hořká smrt: veta po něm.
+Psí štěkot běžel k němu, zarazil se, běžel zpátky. Nepřítelův pes. Stál jsem celý bledý, zamlklý, zaskočený. _Terribilia meditans._[^56] Bleděžlutý kabátec, slouha štěstěny, posmíval se mému strachu. Po tom se pachtíš, po jejich štěkavém potlesku? Nápadníci: prožít to, co oni. Bruceův bratr, hedvábný rytíř Thomas Fitzgerald, jednodenní div Perkin Warbeck, Yorkův nepravý bastard, v krátkých slonově růžovobílých kalhotách, a korunovaný kuchtík Lambert Simnel, za nímž se táhl houf kramářů a markytánů. Samí královští synové. Ráj nápadníků tehdy a nyní. On zachránil tonoucí a ty se třeseš před hafálkovým štěkotem. Jenže kavalíři, co se v Or san Michele posmívali Guidovi, byli ve svém domě. V domě… Nestojíme o tvé středověké hlubokopitomosti. Udělal bys to, co on? Poblíž by čekal člun, záchranný člun. _Natürlich_[^57]_,_ schválně kvůli tobě. Udělal bys to, nebo ne? Ten, co před devíti dny utonul za Maiden’s Rock. Čekají na něho. Pravdu, ven s ní. Rád bych. Zkusil bych to. Nejsem dobrý plavec. Voda studeně hebká. Když jsem do ní v clongoweském umyvadle ponořil obličej. Nevidím. Kdo stojí za mnou? Honem, honem – ven! Vidíš, jak se sem ze všech stran honem valí příliv a jak honem zanáší nízko položené písčiny, perleťově kakaové. Kdybych tak cítil půdu pod nohama. Chtěl bych, aby jeho život stále patřil jemu a můj mně. Tonoucí. Z hrůzy jeho smrti ke mně úpí jeho lidský zrak. Já… Spolu s ním ke dnu… Nedokázal jsem ji zachránit. Vodstvo: hořká smrt: veta po něm.
 
 Muž a žena. Vidím její spodničky. Oč, že je má vykasané.
 
@@ -2013,11 +1341,11 @@ _Bílé pracky, líčka malovaná,
 Dej se ošmajchlovat od galána,  
 on tě prima omrdá._
 
-Trudná rozkoš, říká tomu bachráč Akvinský, _frate porcopino_[_\[58\]_](../Text/odysseus_012.html#_ftn58)_._ Před pádem Adam souložil a radost necítil. Jen aťsi skučí _čubka jako čamrda._ Řeč o nic horší než jeho. Mnišská slova, u pasu jim drmolí zrnka růžence: trhanská řeč, v kapsách jim hrkají hrudky zlata.
+Trudná rozkoš, říká tomu bachráč Akvinský, _frate porcopino_[^58]_._ Před pádem Adam souložil a radost necítil. Jen aťsi skučí _čubka jako čamrda._ Řeč o nic horší než jeho. Mnišská slova, u pasu jim drmolí zrnka růžence: trhanská řeč, v kapsách jim hrkají hrudky zlata.
 
 Už jdou kolem.
 
-Pohled úkosem na můj hamletovský klobouk. Kdybych tak tu najednou seděl nahý. Nejsem. Po písčinách celého světa, sledováni ohnivým slunečním mečem, na západ, putují do krajin půlnočních. Ona se trcká, futýruje, šlepuje, taščí, vleče se svým břemenem. V patách za ní se valí na západ příliv přitahovaný měsícem. Přílivy, miliardkrát zostrovněné, krev nikoliv má, _oinopa ponton__, ví_nově tmavé moře. Aj, děvka měsíce. Mokré znamení jí ve spánku udává hodinu, káže jí vstát. Svatební lůžko, porodní lůžko, úmrtní lůžko. _Omnis caro ad te veniet._[_\[59\]_](../Text/odysseus_012.html#_ftn59) Přichází, siný upír, očima prožíhá bouři, netopýřími plachtami zbrocuje moře, ústy na její ústa.
+Pohled úkosem na můj hamletovský klobouk. Kdybych tak tu najednou seděl nahý. Nejsem. Po písčinách celého světa, sledováni ohnivým slunečním mečem, na západ, putují do krajin půlnočních. Ona se trcká, futýruje, šlepuje, taščí, vleče se svým břemenem. V patách za ní se valí na západ příliv přitahovaný měsícem. Přílivy, miliardkrát zostrovněné, krev nikoliv má, _oinopa ponton__, ví_nově tmavé moře. Aj, děvka měsíce. Mokré znamení jí ve spánku udává hodinu, káže jí vstát. Svatební lůžko, porodní lůžko, úmrtní lůžko. _Omnis caro ad te veniet._[^59] Přichází, siný upír, očima prožíhá bouři, netopýřími plachtami zbrocuje moře, ústy na její ústa.
 
 Už to mám. Aby ti to neuteklo. Kdepak mám knížečku. Ústy políbení vtiská. Ba ne. Musí být dvojí. Dvojích je na to třeba. Dobře je skliž. Ústy na její ústa políbení vtiská.
 
@@ -2025,19 +1353,19 @@ Vlastními rty natahoval a špulil netělesné vzdušné rty: ústa na jejím l�
 
 Nahnut dopředu dopisoval a jeho stín spočíval na balvanu. Proč ne nekonečný až po nejzazší hvězdu. Temněji tam za tím světlem, tma ve světle svítí, delta Kassiopeje, světy. Mé já tam sedí s jasanovým augurským prutem, ve vypůjčených sandálech, ve dne u sinavého moře, neviděno, ve fialové noci pak kráčí pod vládou pustopustých hvězd. Odvrhuji tento omezený stín, nevyhnutelnou lidskou podobu, a zas ji přivolávám. Nekonečná, byla by ještě moje, forma mé formy? Kdo mě tady pozoruje? Kdo kdy bude číst tato napsaná slova? Znaky na bílém poli. Někde někomu svým nejlahodnějším hlasem. Hodný cloynský biskup vytáhl oponu chrámovou ze svého kněžského širáku: oponu prostoru s barevnými emblémy, vyleptanými na jejím poli. Počkat. Pestrými na ploše: ano, tak je to. Vidím plochu, i myslím vzdálenost, blízkou, dalekou, vidím plochu, východ, týl. A hle! Najednou couvne a stereoskopicky se ustálí. Cvak, už je to tak. Moje slova ti připadají temná. Tma je v naší duši, nemyslíš? Ještě lahodněji. Duše, raněná hanbou nad hříchy, vine se k nám tím víc, jako se k milenci vine žena, víc a ještě víc.
 
-Ona mi věří, dlaň má hebkou, na očích dlouhé řasy. Namoutě, kam ji to zavádím za oponu? Do nevyhnutelné modality nevyhnutelné vizuality. Ona, ona, ona. Jaká ona? Ta panenka v pondělí u výlohy Hodges Figgise, jak tam hledala ten tvůj slabikář, co se chystáš napsat. Troufale jsi na ni upřel zrak. Dlaň provlečenou řemínkem u paraplíčka. Žije v Leesonově parku z žalu a bibelotů, literátka. To si povídej, Štěpánku, komu chceš; bludička. Jenže ona nosí zatrachtilou šněrovačku, podvazky a žluté punčochy, látané hrubou vlnou. Mluv o jablečných knedlících _piuttosto_[_\[60\]_](../Text/odysseus_012.html#_ftn60)_._ Kam jsi dal rozum?
+Ona mi věří, dlaň má hebkou, na očích dlouhé řasy. Namoutě, kam ji to zavádím za oponu? Do nevyhnutelné modality nevyhnutelné vizuality. Ona, ona, ona. Jaká ona? Ta panenka v pondělí u výlohy Hodges Figgise, jak tam hledala ten tvůj slabikář, co se chystáš napsat. Troufale jsi na ni upřel zrak. Dlaň provlečenou řemínkem u paraplíčka. Žije v Leesonově parku z žalu a bibelotů, literátka. To si povídej, Štěpánku, komu chceš; bludička. Jenže ona nosí zatrachtilou šněrovačku, podvazky a žluté punčochy, látané hrubou vlnou. Mluv o jablečných knedlících _piuttosto_[^60]_._ Kam jsi dal rozum?
 
 Pohlaď mě. Hebké oči. Hebká, hebká, hebká ruka. Stýská se mi tady. Ach, tak mě pohlaď, honem. Jakpak zní to slovo, které všichni muži znají? Jsem tady sám a sám. A smutný. Pohlaď mě, pohlaď.
 
-Jak široký tak dlouhý se natáhl na ostré balvany, načmárané poznámky i s tužkou nacpal do kapsy, klobouk si pošoupl na oči. Právě tak jako já se Kevin Egan ukládá k šábesovému zchrupnutí. _Et vidit Deus. Et erant valde bona._[_\[61\]_](../Text/odysseus_012.html#_ftn61) Alou. _Bonjour,_ zdrávas, kvítku májový. Kávově mžikavými řasami zpod střechy klobouku pozoroval k jihu tíhnoucí slunce. Jsem polapen v tomto znojném dějišti. Panova hodina, faunské poledne. Mezi klejovitými hadovitě popínavými rostlinami a mlíčně mokvajícími plody, kde se na tříslově hnědých vodách prostírají listy. Daleko je bolest.
+Jak široký tak dlouhý se natáhl na ostré balvany, načmárané poznámky i s tužkou nacpal do kapsy, klobouk si pošoupl na oči. Právě tak jako já se Kevin Egan ukládá k šábesovému zchrupnutí. _Et vidit Deus. Et erant valde bona._[^61] Alou. _Bonjour,_ zdrávas, kvítku májový. Kávově mžikavými řasami zpod střechy klobouku pozoroval k jihu tíhnoucí slunce. Jsem polapen v tomto znojném dějišti. Panova hodina, faunské poledne. Mezi klejovitými hadovitě popínavými rostlinami a mlíčně mokvajícími plody, kde se na tříslově hnědých vodách prostírají listy. Daleko je bolest.
 
 _Nehloubej v sebe uzavřen._
 
-Pohledem se zabral do širokoprstých, turových křápů, ležících _nebeneinander._ Počítal rýhy promáčknuté kůže, v níž si dřív hověla cizí noha, noha, která tanečním krokem tepala půdu, noha, kterou nemám moc v lásce. Ale přece tě potěšilo, když ti padl střevíc Esther Osvaltově: znal jsem to děvče v Paříži. _Tiens, quel petit pied!_[_\[62\]_](../Text/odysseus_012.html#_ftn62) Nerozlučný, bratrská duše. Wildova láska, která si netroufá přiznat jméno. Teď mě opustí. Kdo za to může. Tak jak jsem. Tak jak jsem. Zcela, nebo vůbec ne.
+Pohledem se zabral do širokoprstých, turových křápů, ležících _nebeneinander._ Počítal rýhy promáčknuté kůže, v níž si dřív hověla cizí noha, noha, která tanečním krokem tepala půdu, noha, kterou nemám moc v lásce. Ale přece tě potěšilo, když ti padl střevíc Esther Osvaltově: znal jsem to děvče v Paříži. _Tiens, quel petit pied!_[^62] Nerozlučný, bratrská duše. Wildova láska, která si netroufá přiznat jméno. Teď mě opustí. Kdo za to může. Tak jak jsem. Tak jak jsem. Zcela, nebo vůbec ne.
 
 Dlouhými závity se z Cockské tůně valila voda, a jak stoupala a kypěla, zalévala zelenavě zlaté písečné laguny. Uplave mi jasanová hůl. Počkám. Ba ne, pohrnou se dál, a jak se pohrnou, budou se třít o nízké balvany, vířit a hrnout. Honem si to odbudu. Poslouchej: vlnomluva o čtyřech slovech: sísú, hrs, rsíis, úz. Mocný dech vodstva uprostřed mořských hadů, vzpínajících se ořů, balvanů. Pleská v skalních úžlabinách: šplách, žblunk, cák: vtěsnaná do sudů. Po odplynutí jeho řeč pomine. Bublá, rozlévá se, jako když kypí pěnivá tůň, jako když se rozvíjí květina.
 
-Pod kypějícím přílivem uviděl pokroucené chaluhy, jak se zdvíhají, malátně mávají rukama, vykasávají sukýnky, v zurčivé vodě mávají a šermují plachými stříbřitými vějíři. Den co den: noc co noc: zdvíhány, odplavovány, pohazovány. Bože, jak jsou utrmáceny: když na ně šeptem promluvíš, vzdychají. Svatý Ambrož slyšel ten vzdech listí a vln, které očekávajíce očekávaly plnost času, _diebus ac noctibus iniurias patiens ingemiscit_[_\[63\]_](../Text/odysseus_012.html#_ftn63)_._ Pro nic za nic se seženou: zbytečně se pak propustí, odplývají a zas se ubírají zpátky: tkalcovský stav luny. I ona je utrmácená pohledem na milence, na chlípníky, nahá ve své říši, táhne tu tíhu vod.
+Pod kypějícím přílivem uviděl pokroucené chaluhy, jak se zdvíhají, malátně mávají rukama, vykasávají sukýnky, v zurčivé vodě mávají a šermují plachými stříbřitými vějíři. Den co den: noc co noc: zdvíhány, odplavovány, pohazovány. Bože, jak jsou utrmáceny: když na ně šeptem promluvíš, vzdychají. Svatý Ambrož slyšel ten vzdech listí a vln, které očekávajíce očekávaly plnost času, _diebus ac noctibus iniurias patiens ingemiscit_[^63]_._ Pro nic za nic se seženou: zbytečně se pak propustí, odplývají a zas se ubírají zpátky: tkalcovský stav luny. I ona je utrmácená pohledem na milence, na chlípníky, nahá ve své říši, táhne tu tíhu vod.
 
 Pět sáhů. Na pět sáhův hlubokosti spí tvůj otec. Prý v jednu. Utonul. Povodeň na dublinské písčině. Žene před sebou drť smetí, vějířovitá hejna ryb, zpozdilé mušle. Ze spodního protiproudu vystupuje slaně bílá mrtvola, houpavě míří k pevnině, krok co krok, úplný delfín. Tamhle je. Honem ho zahákni. Byť pod hladinu klesl ve vlnách. Už ho máme. Pomalu.
 
@@ -2045,9 +1373,9 @@ Pytel mrtvolného plynu, namočený v zkaženém láku. Hejno střevlí, ztloust
 
 Toť mořská proměna, hnědé oči, slaně modré. Mořská smrt, nejmírnější, jakou člověk zná. Dávný Otec oceán. _Prix de Paris:_ pozor na imitace. Jen to zkuste. Moc jsme si užili.
 
-Pojď. Žízním. Nebe se zatahuje. Černé mraky snad nikde nejsou, co? Bouře. Přejasný padá, pyšný blesk rozumu, _Lucifer, dico, qui nescit occasum._[_\[64\]_](../Text/odysseus_012.html#_ftn64) Ba ne. Klobouček s mašlí, v ruce hůl a jehomoje opánky. Kam. Do krajin půlnočních. Večer se už najde.
+Pojď. Žízním. Nebe se zatahuje. Černé mraky snad nikde nejsou, co? Bouře. Přejasný padá, pyšný blesk rozumu, _Lucifer, dico, qui nescit occasum._[^64] Ba ne. Klobouček s mašlí, v ruce hůl a jehomoje opánky. Kam. Do krajin půlnočních. Večer se už najde.
 
-Uchopil jasanovou hůl za rukojeť, a jak stále ještě otálel, provedl s ní několik chabých výpadů. Ano, večer se už ve mně najde, beze mě. Všechny dny dojdou konce. Kdypak bude ostatně příští? Nejdelší den bude v úterý. Z celého blaženého roku, máti, taratatydlilitam. Lawn Tennyson, nóbl básník. _Già._[_\[65\]_](../Text/odysseus_012.html#_ftn65) Ať žije žlutozubá babizna. A monsieur Drumont, nóbl novinář. _Già._ Mám moc špatné zuby. Pročpak asi? Sáhnu si. Tamten se taky viklá. Neměl bych s těmi penězi zajít k zubaři? S těmihle. Bezzubý Čabalák, nadčlověk. Čímpak to asi je, nebo to něco znamená?
+Uchopil jasanovou hůl za rukojeť, a jak stále ještě otálel, provedl s ní několik chabých výpadů. Ano, večer se už ve mně najde, beze mě. Všechny dny dojdou konce. Kdypak bude ostatně příští? Nejdelší den bude v úterý. Z celého blaženého roku, máti, taratatydlilitam. Lawn Tennyson, nóbl básník. _Già._[^65] Ať žije žlutozubá babizna. A monsieur Drumont, nóbl novinář. _Già._ Mám moc špatné zuby. Pročpak asi? Sáhnu si. Tamten se taky viklá. Neměl bych s těmi penězi zajít k zubaři? S těmihle. Bezzubý Čabalák, nadčlověk. Čímpak to asi je, nebo to něco znamená?
 
 Kapesník. Pohodil mi ho. Vzpomínám si. To jsem ho nezvedl ze země?
 
