@@ -345,7 +345,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^334]: Dvě sázená vejce, pane.  
 [^335]: Myslím na Masetta… já nevím, co bych ráda; z Mozartova _Dona Giovanniho_, přel. R. Vonásek.  
 [^336]: Hospoda.  
-V MKP 2. elektronické vydání z 4. 10. 2022.
+V MKP 2. elektronické vydání z 7. 10. 2022.
 
 ***
 
