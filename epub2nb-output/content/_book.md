@@ -13,6 +13,7 @@ meta:
   modified: '2018-09-10T00:00:00.000Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2819-9
 readingOrder:
   - promo.html
   - odysseus_005.html
