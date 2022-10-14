@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2018-09-10T00:00:00.000Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2819-9"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven1cast\nmlpuroven1zvlastnipripady",
@@ -25,6 +26,8 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky\nmlpobrazky\nmlpobrazky1",
+      "centered": "",
+      "verse": "",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopisbez1radkui\nmlpdopisi\nmlpdopispodpisi\nmlpscenickepoznamkynekurziva\nmlpscenickepoznamkynekurzivacxspfirst\nmlpscenickepoznamkynekurzivacxsplast\nmlptextbez1radkui\nmlptextbez1radkui1\nmlptextbez1radkui2\nmlptexti\nmlptexti1\nmlptitulkaprekladatel\nmlpversei\nmlpznakkurziva11b\nmlpznaktucnakurziva11b",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptirazautoranazev\nmlpznaktucnakurziva11b\nmlpznaktucne11b",
       "remove": "",
@@ -35,6 +38,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "odysseus_001.md",
@@ -94,8 +98,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "odysseus_006.md",
@@ -119,8 +123,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "odysseus_008.md",
@@ -144,8 +148,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "odysseus_010.md",
@@ -169,8 +173,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Překladatelův doslov"
+            "title": "Překladatelův doslov",
+            "children": []
           },
           {
             "filename": "odysseus_012.md",
@@ -182,8 +186,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "odysseus_013.md",
@@ -197,8 +201,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -457,6 +460,6 @@
       "user": "books-are-next",
       "repo": "odysseus"
     },
-    "generatedAt": 1647800101791
+    "generatedAt": 1665416192984
   }
 }
