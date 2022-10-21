@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "joyce-odysseus-3ee9b73",
-  "revision": "3ee9b73",
+  "identifier": "joyce-odysseus-6ef1fda",
+  "revision": "6ef1fda",
   "readingOrder": [
     "promo.html",
     "odysseus_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 14 2022 13:32:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665754364925
+    "date": "Fri Oct 21 2022 11:40:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352457577
   },
   "documents": [
     {
